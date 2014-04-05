@@ -1,0 +1,39 @@
+---
+title: Info
+layout: post
+tags: []
+---
+
+
+**Thanks for checking out my blog!**
+
+Who am I?
+=========
+
+My name is Dale Hamel, and I am a Computer Science student finishing the last semester of my bachelors at the University of Manitoba (U of M).
+
+About me
+========
+
+I am 22 years old at the time that I am writing this. I live on my own, the result of working hard since I was 16 to become a home owner. I would classify myself as a workaholic.
+
+A typical day for me involves getting up, starting the coffee, going back to bed, then rushing out of bed to just barely catch the bus to school. After school, I go to work, yoga, or do homework. I still find time to see my friends, but not much.
+
+What is my background?
+----------------------
+
+I have worked for the U of M's plant science department on a bio-informatics program called BIRCH, as a web developer for Research In Motion (RIM) working on Webkit, a robotics software developer at Cogmation Robotics, and I am currently employed full time by Invenia Technical Computing. You can find more details on my [linked in](http://ca.linkedin.com/pub/dale-hamel/34/45b/6b9 "linked in").
+
+What is the point of this site?
+-------------------------------
+
+In my spare time, I like to fool around with Linux. Right now I am using Gentoo, a quick switch from Archlinux, after jumping ship from Ubuntu at the first sign of the new "unity" interface. I also regularly (at least once a week, and ideally 3 times a week) practice Bikram Hatha hot yoga.
+
+I'm also very opinionated. Over the coming months (and, dare I say, years?) I'll be adding to this site, with things as minor as articles I've found interesting, all the way up to full tutorials written by me. You can expect the odd (or frequent) rant about something FOSS related here too.
+
+How can you contact me?
+-----------------------
+
+If you are interested in anything that you've read on this site and would like to contact me, you can email me at dale.hamel@srvthe.net, or join my irc server at irc.srvthe.net, or pop by via my the web interface at chat.srvthe.net \#chat
+
+You can of course always just post a comment right on the site.
