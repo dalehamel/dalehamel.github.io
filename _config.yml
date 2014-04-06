@@ -8,14 +8,14 @@ url:              http://dalehamel.github.io
 owner:
   name:           Dale Hamel
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "I'm an Opsguy at Shopify, and the creator and maintainer of RasPlex. I love hacking, death metal, and folk music."
+  email:          dale.hamel@srvthe.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        dalehamel
+  twitter:        https://twitter.com/dalehamel
   facebook:       
-  github:         
+  github:         https://github.com/dalehamel
   stackexchange:  
-  linkedin:       
+  linkedin:       http://www.linkedin.com/pub/dale-hamel/34/45b/6b9
   instagram:      
   flickr:         
   tumblr:         
@@ -37,7 +37,7 @@ links:
 #  - title: Blah
 #    url: blah
   - title: RasPlex
-    url: http://rasplex.com
+    url: http://www.rasplex.com
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
