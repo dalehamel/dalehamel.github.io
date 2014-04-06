@@ -3,7 +3,7 @@ title: Pyplex Plex On Raspberry Pi Stage 1 Complete
 modified: 2013-01-09
 layout: post
 redirect_from:
-  -/archive/395
+  -/archives/395
   -/blog/?p=395
 tags: []
 ---

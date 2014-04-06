@@ -3,7 +3,7 @@ title: Rasplex
 modified: 2013-02-16
 layout: post
 redirect_from:
-  -/archive/562
+  -/archives/562
   -/blog/?p=562
 tags: []
 ---

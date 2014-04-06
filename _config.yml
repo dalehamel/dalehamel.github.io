@@ -53,7 +53,7 @@ permalink:   /:categories/:title/
 paginate: 5
 
 gems:
-- jekyll-redirect-from
+  - jekyll-redirect-from
 
 kramdown:
   auto_ids: true

@@ -3,7 +3,7 @@ title: Git Branch Basics
 modified: 2012-02-06
 layout: post
 redirect_from:
-  -/archive/150
+  -/archives/150
   -/blog/?p=150
 tags: []
 ---

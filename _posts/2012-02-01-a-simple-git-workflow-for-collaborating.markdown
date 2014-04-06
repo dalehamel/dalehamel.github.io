@@ -3,7 +3,7 @@ title: A Simple Git Workflow For Collaborating
 modified: 2012-02-01
 layout: post
 redirect_from:
-  -/archive/86
+  -/archives/86
   -/blog/?p=86
 tags: []
 ---

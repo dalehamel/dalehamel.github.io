@@ -3,7 +3,7 @@ title: Rasplex Rc9 Is Out This Is One You Have Got To Try
 modified: 2013-02-16
 layout: post
 redirect_from:
-  -/archive/560
+  -/archives/560
   -/blog/?p=560
 tags: []
 ---

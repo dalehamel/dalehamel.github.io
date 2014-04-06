@@ -3,7 +3,7 @@ title: The History And Future Of Rasplex
 modified: 2013-03-27
 layout: post
 redirect_from:
-  -/archive/646
+  -/archives/646
   -/blog/?p=646
 tags: []
 ---

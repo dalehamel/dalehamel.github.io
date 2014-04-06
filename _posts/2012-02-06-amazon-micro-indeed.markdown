@@ -3,7 +3,7 @@ title: Amazon Micro Indeed
 modified: 2012-02-06
 layout: post
 redirect_from:
-  -/archive/157
+  -/archives/157
   -/blog/?p=157
 tags: []
 ---

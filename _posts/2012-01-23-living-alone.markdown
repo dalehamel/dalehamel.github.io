@@ -3,7 +3,7 @@ title: Living Alone
 modified: 2012-01-23
 layout: post
 redirect_from:
-  -/archive/71
+  -/archives/71
   -/blog/?p=71
 tags: []
 ---

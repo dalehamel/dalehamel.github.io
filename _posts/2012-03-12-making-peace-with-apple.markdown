@@ -3,7 +3,7 @@ title: Making Peace With Apple
 modified: 2012-03-12
 layout: post
 redirect_from:
-  -/archive/290
+  -/archives/290
   -/blog/?p=290
 tags: []
 ---

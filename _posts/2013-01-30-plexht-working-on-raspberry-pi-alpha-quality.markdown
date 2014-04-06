@@ -3,7 +3,7 @@ title: Plexht Working On Raspberry Pi Alpha Quality
 modified: 2013-01-30
 layout: post
 redirect_from:
-  -/archive/407
+  -/archives/407
   -/blog/?p=407
 tags: []
 ---

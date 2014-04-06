@@ -3,7 +3,7 @@ title: New Urls Old Links Broken
 modified: 2012-02-27
 layout: post
 redirect_from:
-  -/archive/227
+  -/archives/227
   -/blog/?p=227
 tags: []
 ---

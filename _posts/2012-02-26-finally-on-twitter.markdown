@@ -3,7 +3,7 @@ title: Finally On Twitter
 modified: 2012-02-26
 layout: post
 redirect_from:
-  -/archive/187
+  -/archives/187
   -/blog/?p=187
 tags: []
 ---
