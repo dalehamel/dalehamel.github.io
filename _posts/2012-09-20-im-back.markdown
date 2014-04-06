@@ -3,8 +3,8 @@ title: Im Back
 modified: 2012-09-20
 layout: post
 redirect_from:
-  - /archives/371
-  - /blog/?p=371
+  - /archives/371/
+  - /blog/?p=371/
 tags: []
 ---
 

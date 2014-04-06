@@ -3,8 +3,8 @@ title: Projects
 modified: 2012-01-15
 layout: post
 redirect_from:
-  - /archives/40
-  - /blog/?p=40
+  - /archives/40/
+  - /blog/?p=40/
 tags: []
 ---
 

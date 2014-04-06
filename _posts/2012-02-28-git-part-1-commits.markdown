@@ -3,8 +3,8 @@ title: Git Part 1 Commits
 modified: 2012-02-28
 layout: post
 redirect_from:
-  - /archives/161
-  - /blog/?p=161
+  - /archives/161/
+  - /blog/?p=161/
 tags: []
 ---
 

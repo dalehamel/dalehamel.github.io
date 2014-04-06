@@ -3,8 +3,8 @@ title: Archlinux Vs Gentoo
 modified: 2012-10-02
 layout: post
 redirect_from:
-  - /archives/380
-  - /blog/?p=380
+  - /archives/380/
+  - /blog/?p=380/
 tags: []
 ---
 

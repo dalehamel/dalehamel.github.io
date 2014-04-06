@@ -3,8 +3,8 @@ title: Rasplex Alpha Major Updates
 modified: 2013-02-06
 layout: post
 redirect_from:
-  - /archives/490
-  - /blog/?p=490
+  - /archives/490/
+  - /blog/?p=490/
 tags: []
 ---
 

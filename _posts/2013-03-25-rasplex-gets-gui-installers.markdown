@@ -3,8 +3,8 @@ title: Rasplex Gets Gui Installers
 modified: 2013-03-25
 layout: post
 redirect_from:
-  - /archives/643
-  - /blog/?p=643
+  - /archives/643/
+  - /blog/?p=643/
 tags: []
 ---
 

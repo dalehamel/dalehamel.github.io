@@ -3,8 +3,8 @@ title: I Now Understand What A Real Smart Phone Is
 modified: 2012-03-17
 layout: post
 redirect_from:
-  - /archives/326
-  - /blog/?p=326
+  - /archives/326/
+  - /blog/?p=326/
 tags: []
 ---
 

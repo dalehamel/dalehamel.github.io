@@ -3,8 +3,8 @@ title: Videos
 modified: 2012-02-26
 layout: post
 redirect_from:
-  - /archives/168
-  - /blog/?p=168
+  - /archives/168/
+  - /blog/?p=168/
 tags: []
 ---
 

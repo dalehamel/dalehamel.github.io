@@ -3,8 +3,8 @@ title: Plexht On Raspberry Pi Guide For Testers
 modified: 2013-02-01
 layout: post
 redirect_from:
-  - /archives/431
-  - /blog/?p=431
+  - /archives/431/
+  - /blog/?p=431/
 tags: []
 ---
 
