@@ -3,8 +3,8 @@ title: Rasplex 0 1 14 Released
 modified: 2013-02-24
 layout: post
 redirect_from:
-  -/archives/605
-  -/blog/?p=605
+  - /archives/605
+  - /blog/?p=605
 tags: []
 ---
 

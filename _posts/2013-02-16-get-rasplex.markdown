@@ -3,8 +3,8 @@ title: Get Rasplex
 modified: 2013-02-16
 layout: post
 redirect_from:
-  -/archives/565
-  -/blog/?p=565
+  - /archives/565
+  - /blog/?p=565
 tags: []
 ---
 

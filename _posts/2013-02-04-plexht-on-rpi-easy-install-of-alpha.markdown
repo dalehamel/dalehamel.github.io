@@ -3,8 +3,8 @@ title: Plexht On Rpi Easy Install Of Alpha
 modified: 2013-02-04
 layout: post
 redirect_from:
-  -/archives/474
-  -/blog/?p=474
+  - /archives/474
+  - /blog/?p=474
 tags: []
 ---
 

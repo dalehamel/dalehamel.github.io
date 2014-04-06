@@ -3,8 +3,8 @@ title: Rasplex Unstable Updated
 modified: 2013-02-08
 layout: post
 redirect_from:
-  -/archives/514
-  -/blog/?p=514
+  - /archives/514
+  - /blog/?p=514
 tags: []
 ---
 

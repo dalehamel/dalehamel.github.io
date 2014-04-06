@@ -3,8 +3,8 @@ title: Powerless
 modified: 2012-03-20
 layout: post
 redirect_from:
-  -/archives/328
-  -/blog/?p=328
+  - /archives/328
+  - /blog/?p=328
 tags: []
 ---
 

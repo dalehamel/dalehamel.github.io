@@ -3,8 +3,8 @@ title: Plexht On Gentoo And Rpi
 modified: 2013-01-19
 layout: post
 redirect_from:
-  -/archives/401
-  -/blog/?p=401
+  - /archives/401
+  - /blog/?p=401
 tags: []
 ---
 

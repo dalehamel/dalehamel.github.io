@@ -3,8 +3,8 @@ title: Happy Pi Day
 modified: 2013-03-14
 layout: post
 redirect_from:
-  -/archives/634
-  -/blog/?p=634
+  - /archives/634
+  - /blog/?p=634
 tags: []
 ---
 

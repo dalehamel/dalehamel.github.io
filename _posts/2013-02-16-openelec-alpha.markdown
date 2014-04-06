@@ -3,8 +3,8 @@ title: Openelec Alpha
 modified: 2013-02-16
 layout: post
 redirect_from:
-  -/archives/557
-  -/blog/?p=557
+  - /archives/557
+  - /blog/?p=557
 tags: []
 ---
 

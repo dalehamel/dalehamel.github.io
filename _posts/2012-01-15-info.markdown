@@ -3,8 +3,8 @@ title: Info
 modified: 2012-01-15
 layout: post
 redirect_from:
-  -/archives/36
-  -/blog/?p=36
+  - /archives/36
+  - /blog/?p=36
 tags: []
 ---
 

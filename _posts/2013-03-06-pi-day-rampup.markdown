@@ -3,8 +3,8 @@ title: Pi Day Rampup
 modified: 2013-03-06
 layout: post
 redirect_from:
-  -/archives/624
-  -/blog/?p=624
+  - /archives/624
+  - /blog/?p=624
 tags: []
 ---
 
