@@ -2,6 +2,9 @@
 title: Devurandom
 modified: 2012-03-14
 layout: post
+redirect_from:
+  -/archive/252
+  -/blog/?p=252
 tags: []
 ---
 

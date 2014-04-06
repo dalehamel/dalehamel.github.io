@@ -2,6 +2,9 @@
 title: Tutorials
 modified: 2012-01-23
 layout: post
+redirect_from:
+  -/archive/78
+  -/blog/?p=78
 tags: []
 ---
 

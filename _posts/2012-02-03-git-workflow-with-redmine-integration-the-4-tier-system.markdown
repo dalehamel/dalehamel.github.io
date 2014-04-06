@@ -2,6 +2,9 @@
 title: Git Workflow With Redmine Integration The 4 Tier System
 modified: 2012-02-03
 layout: post
+redirect_from:
+  -/archive/138
+  -/blog/?p=138
 tags: []
 ---
 

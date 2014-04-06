@@ -2,6 +2,9 @@
 title: Plexht On Raspberry Pi Guide For Developers
 modified: 2013-02-01
 layout: post
+redirect_from:
+  -/archive/409
+  -/blog/?p=409
 tags: []
 ---
 

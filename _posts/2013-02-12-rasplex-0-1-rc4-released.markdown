@@ -2,6 +2,9 @@
 title: Rasplex 0 1 Rc4 Released
 modified: 2013-02-12
 layout: post
+redirect_from:
+  -/archive/544
+  -/blog/?p=544
 tags: []
 ---
 

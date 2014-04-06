@@ -2,6 +2,9 @@
 title: Rasplex On Engadget Please Upvote Us On Hn
 modified: 2013-03-15
 layout: post
+redirect_from:
+  -/archive/640
+  -/blog/?p=640
 tags: []
 ---
 

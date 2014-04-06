@@ -2,6 +2,9 @@
 title: Sample Post
 modified: 2012-01-15
 layout: post
+redirect_from:
+  -/archive/10
+  -/blog/?p=10
 tags: []
 ---
 

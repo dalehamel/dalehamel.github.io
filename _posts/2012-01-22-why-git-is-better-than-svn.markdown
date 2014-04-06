@@ -2,6 +2,9 @@
 title: Why Git Is Better Than Svn
 modified: 2012-01-22
 layout: post
+redirect_from:
+  -/archive/54
+  -/blog/?p=54
 tags: []
 ---
 

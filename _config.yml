@@ -52,6 +52,9 @@ permalink:   /:categories/:title/
 # Amount of post to show on home page
 paginate: 5
 
+gems:
+- jekyll-redirect-from
+
 kramdown:
   auto_ids: true
   footnote_nr: 1

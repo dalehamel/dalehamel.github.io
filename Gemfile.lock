@@ -104,6 +104,7 @@ DEPENDENCIES
   activesupport
   coderay
   github-pages
+  jekyll-redirect-from
   kramdown
   rake
   stringex

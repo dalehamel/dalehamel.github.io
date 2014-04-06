@@ -2,6 +2,9 @@
 title: The Apple Fallacy
 modified: 2012-02-01
 layout: post
+redirect_from:
+  -/archive/122
+  -/blog/?p=122
 tags: []
 ---
 

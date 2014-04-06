@@ -2,6 +2,9 @@
 title: Multiple Screens On A Single Card With Xorg Using Zaphodheads
 modified: 2012-10-03
 layout: post
+redirect_from:
+  -/archive/382
+  -/blog/?p=382
 tags: []
 ---
 

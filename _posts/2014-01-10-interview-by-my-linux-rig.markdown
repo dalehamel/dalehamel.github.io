@@ -2,6 +2,9 @@
 title: Interview By My Linux Rig
 modified: 2014-01-10
 layout: post
+redirect_from:
+  -/archive/661
+  -/blog/?p=661
 tags: []
 ---
 

@@ -2,6 +2,9 @@
 title: Rasplex Gl Drawing Unstable
 modified: 2013-02-07
 layout: post
+redirect_from:
+  -/archive/501
+  -/blog/?p=501
 tags: []
 ---
 

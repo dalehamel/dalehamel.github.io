@@ -2,6 +2,9 @@
 title: Rasplex 0 1 Rc1 Alpha Released
 modified: 2013-02-08
 layout: post
+redirect_from:
+  -/archive/519
+  -/blog/?p=519
 tags: []
 ---
 

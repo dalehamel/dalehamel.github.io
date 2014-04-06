@@ -2,6 +2,9 @@
 title: Plexberry
 modified: 2012-09-22
 layout: post
+redirect_from:
+  -/archive/377
+  -/blog/?p=377
 tags: []
 ---
 

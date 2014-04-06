@@ -2,6 +2,9 @@
 title: Linux Printer Drivers
 modified: 2012-02-01
 layout: post
+redirect_from:
+  -/archive/82
+  -/blog/?p=82
 tags: []
 ---
 

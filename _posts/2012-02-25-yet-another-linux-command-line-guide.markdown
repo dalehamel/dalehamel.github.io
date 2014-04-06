@@ -2,6 +2,9 @@
 title: Yet Another Linux Command Line Guide
 modified: 2012-02-25
 layout: post
+redirect_from:
+  -/archive/164
+  -/blog/?p=164
 tags: []
 ---
 

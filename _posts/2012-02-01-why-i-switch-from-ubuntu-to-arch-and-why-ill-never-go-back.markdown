@@ -2,6 +2,9 @@
 title: Why I Switch From Ubuntu To Arch And Why Ill Never Go Back
 modified: 2012-02-01
 layout: post
+redirect_from:
+  -/archive/105
+  -/blog/?p=105
 tags: []
 ---
 
