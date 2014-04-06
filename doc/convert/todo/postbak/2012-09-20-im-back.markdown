@@ -1,0 +1,24 @@
+---
+title: title
+layout: post
+tags: []
+---
+
+
+Finally back...
+===============
+
+After a very long break, my blog is finally back online and pretty much fully functionaly.
+
+I've been pretty busy with a number of projects, not the least of which being my new job at Invenia, which have prevented me from posting on here much.
+
+The old blog was also located on my home server, which presented several logistics problems...
+
+I now have all of my servers consolidated into the amazon cloud.
+
+What's coming?
+==============
+
+I plan on making quite a few posts about things I've learned about git, my switch to Gentoo, and my adventures with plex and the raspberry pi.
+
+Stay tuned for more folks...

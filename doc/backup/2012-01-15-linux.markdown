@@ -1,0 +1,29 @@
+---
+title: Linux
+modified: 2012-01-15
+layout: post
+tags: []
+---
+
+
+It all started 3 years ago
+==========================
+
+Ubuntu 8.10: Intepid Ibex. This was the OS I used when I first switch completely from Winbl0w\$ and OS-suX to linux. Things haven't always been easy, and I've lost a lot of hair, but now that I am this far down the rabbit hole, I couldn't turn back even if I wanted to.
+
+Why Linux?
+==========
+
+I was frustrated with having to reformat windows XP every month to maintain even a modicum of performance. I realized that anti-malware programs were a waste of time, and yearned for something more secure. I was also displeased with the Windows UI. I found myself reskinning it to look prettier, and have a dock. It was time to finally shell out the cash for a Mac.
+
+When I bought my mac (a mac mini, running tiger), I was very happy with it. It was able to stay online for months at a time (without rebooting! : o ). Everything was well thought out, and everything that you could do was easy. But, I found myself getting hungrier for more advanced functionality and I missed the ability to customize things that I had on Windows.
+
+Enter Linux - the best of both worlds. Secure, customizable, and best of all, (for a fresh CS student) educational.
+
+Posts
+=====
+
+-   [Why I switched from Ubuntu to Arch, and why I'll never go back.](http://blog.srvthe.net/archives/105 "Why I switch from Ubuntu to Arch, and why I’ll never go back")
+-   [Basic linux command line tutorial](http://blog.srvthe.net/archives/164 "Yet another Linux Command line guide.")
+-   [DD-WRT: unleash your router!](http://blog.srvthe.net/archives/239 "DD-WRT: Unleash your router")
+

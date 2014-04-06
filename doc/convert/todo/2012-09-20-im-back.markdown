@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: I'm back!
+author: dale.hamel
+author_login: umhameld
+author_email: daleha@gmail.com
+wordpress_id: 371
+wordpress_url: http://blog.srvthe.net/?p=371
+date: 2012-09-20 01:06:20.000000000 -04:00
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+<h1>Finally back...</h1>
+<p>After a very long break, my blog is finally back online and pretty much fully functionaly.</p>
+<p>I've been pretty busy with a number of projects, not the least of which being my new job at Invenia, which have prevented me from posting on here much.</p>
+<p>The old blog was also located on my home server, which presented several logistics problems...</p>
+<p>I now have all of my servers consolidated into the amazon cloud.</p>
+<h1>What's coming?</h1>
+<p>I plan on making quite a few posts about things I've learned about git, my switch to Gentoo, and my adventures with plex and the raspberry pi.</p>
+<p>Stay tuned for more folks...</p>

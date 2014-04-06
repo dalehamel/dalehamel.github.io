@@ -1,0 +1,30 @@
+---
+layout: page
+status: publish
+published: true
+title: Yoga
+author: dale.hamel
+author_login: umhameld
+author_email: daleha@gmail.com
+wordpress_id: 15
+wordpress_url: http://prometheus.gotdns.com:88/wordpress/?page_id=15
+date: 2012-01-15 22:39:11.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+<h1>Why I do yoga</h1>
+
+<p>Lots of people laugh yoga off as a hippy/hipster passtime, or something that is more exclusively for women, and write it off as a not a <em>real</em> workout. For the most part, they are right - these tend to be the people that go to yoga more, and most yoga is pretty watered down.</p>
+
+<p>I do yoga because I do <strong>real</strong> yoga, and trust me, it is a workout. The yoga classes are both physically and mentally demanding, and I've found them to be an effective remedy for managing stress. So, to dispel your misconceptions of yoga, no one is sitting around meditating, or chanting "om".</p>
+
+<h1>What is yoga</h1>
+
+<h2>Hatha Yoga</h2>
+
+<p>I just want to distinguish the type of yoga that I do from these watered down versions first and foremost. When yoga was introduced to the was introduced to the Western world, many teachers changed the practice to suite the practitioners, essentially making it easy enough that anyone could do it. I see this modern yoga as a debauchery, and if anything "yoga" is a misnomer, where "faux-ga" is more appropriate. The yoga that I practice is hatha yoga, specifically, the 26 postures of the Bishnu-Gosh studio's subset of hatha, as developed by Guru Bikram Choudhury.</p>
+
+<h3>The Bikram Controversy</h3>
+
+<p>If you google "Bikram", you will find references to the creator of Bikram yoga, Bikram Choudhury. He is well know for his affluence, and eye-brow raising behavior. While he is something of a walking oxy-moron, I must insist that his public behavior shouldn't be taken a measure of the effectiveness of his yoga. While I refuse to be a Bikram apologist, I must stand by his yoga, as the proof is, as they say, in the pudding.</p>

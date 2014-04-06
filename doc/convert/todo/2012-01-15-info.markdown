@@ -1,0 +1,111 @@
+---
+layout: page
+status: publish
+published: true
+title: Info
+author: dale.hamel
+author_login: umhameld
+author_email: daleha@gmail.com
+wordpress_id: 36
+wordpress_url: http://prometheus.gotdns.com:88/wordpress/?page_id=36
+date: 2012-01-15 22:46:32.000000000 -05:00
+categories: []
+tags: []
+comments:
+- id: 655
+  author: Matt Duke
+  author_email: mattduke65@gmail.com
+  author_url: ''
+  date: '2013-03-29 00:41:14 -0400'
+  date_gmt: '2013-03-29 00:41:14 -0400'
+  content: Hi I am interested in using rasplex for my home media centre. However I
+    am having some major headaches over how to set up a remote to work with it. I
+    would like to use a bell expressvu remote, that needs you to enter a code to set
+    it up with a product. I realize that a gpio ir receiver would work to use with
+    a remote, but I don't know how to do this and if my bell remote would work for
+    this purpose. I know you might not be able to answer my question fully, but any
+    scrap of help that you can offer would be greatly appreciated.
+- id: 662
+  author: dale.hamel
+  author_email: daleha@gmail.com
+  author_url: ''
+  date: '2013-03-29 05:11:07 -0400'
+  date_gmt: '2013-03-29 05:11:07 -0400'
+  content: |-
+    http://forums.plexapp.com/index.php/topic/63336-support-for-gpio-ir-receivers/
+
+    http://sourceforge.net/p/rasplex/wiki/GPIO-IR/
+
+    This is all community stuff so far, I haven't had a chance to play with GPIO IR yet. I expect I will this weekend, so sit tight if the above doesn't help :)
+- id: 759
+  author: Brad Dennison
+  author_email: bradleydennison@googlemail.com
+  author_url: ''
+  date: '2013-04-02 19:57:13 -0400'
+  date_gmt: '2013-04-02 19:57:13 -0400'
+  content: "Hi Dale,\r\n\r\nBeing an avid XBMC and Plex user, I've just stumbled here
+    and found RaspPLEX. I have to say, Thank you! What an awesome project to get involved
+    in. Plex is so overlooked in relation to XBMC, and especially since Pi's shit
+    a brick with USB drives without a millions powered hubs. Plex for the Pi is obvious
+    and I'm glad you picked it up.\r\n\r\nLooking forward to your cases to help fund
+    the project"
+- id: 760
+  author: Brad Dennison
+  author_email: bradleydennison@googlemail.com
+  author_url: ''
+  date: '2013-04-02 20:03:17 -0400'
+  date_gmt: '2013-04-02 20:03:17 -0400'
+  content: I mean't RasPlex obviously, but I'm a little drunk trying to watch the
+    end of season finale of Walking Dead (streamed from Plex none the less) on my
+    ipad, next to my laptop, whilst munching a kebab raping forums.
+- id: 1474
+  author: Peter Andersen
+  author_email: pa49667@gmail.com
+  author_url: http://www.singlecelldevelopment.com/
+  date: '2013-08-01 09:12:22 -0400'
+  date_gmt: '2013-08-01 09:12:22 -0400'
+  content: "Hi Dale,\r\n\r\nI know you are super busy. But if you have 5min to read
+    my post on the rasplex forum regarding \"selecting players\" on IOS app and Android
+    app that is not working well. I have added a 3rd Rasplex and i still only se 1
+    rasplex host on the selectable list of players in the app and not all 3 (So i
+    can those which to control)\r\n\r\nHere is the post.\r\nhttp://forums.plexapp.com/index.php/topic/74010-plexpass-android-rasplex-players-multiple/\r\n\r\nBest
+    regards\r\nPeter - Denmark\r\nI work with network tech on HP and Cisco enterprise
+    solutions.\r\nFeel free to join me on likedin on pa49667@gmail.com :)\r\n\r\nTip
+    to make i run wireless superbly. Buy this and it is cheap.\r\nhttp://dx.com/p/ep-n1528-mini-usb-300mbps-802-11b-g-n-wifi-wlan-wireless-network-adapter-black-123895\r\nI
+    have done a lot of testing on my Pie's and have finally come to a really good
+    setup with your rasplex with SDcards above class 10 UHS 1+. I've been using XBMC
+    for 2 years now before turning to PLEX. Subtile feature in XBMC with chooseable
+    menu is stil better. But i can live with the PLEX way. Hope it gets better. \r\nBut
+    need this last thing to work with the remote selectable feature in the iOS and
+    android app. Can you explain why i cant see all 3 RASPLEX devices on the remote
+    \"Select player\" list and only just one og them?? They all have different IP's
+    on the same subnet.\r\n\r\nThanks again."
+---
+<p><strong>Thanks for checking out my blog!</strong></p>
+
+<h1>Who am I?</h1>
+
+<p>My name is Dale Hamel, and I am a Computer Science student finishing the last semester of my bachelors at the University of Manitoba (U of M).</p>
+
+
+<h1>About me</h1>
+
+<p>I am 22 years old at the time that I am writing this. I live on my own, the result of working hard since I was 16 to become a home owner. I would classify myself as a workaholic.</p>
+
+<p>A typical day for me involves getting up, starting the coffee, going back to bed, then rushing out of bed to just barely catch the bus to school. After school, I go to work, yoga, or do homework. I still find time to see my friends, but not much.</p>
+
+<h2>What is my background?</h2>
+
+<p>I have worked for the  U of M's plant science department on a bio-informatics program called BIRCH, as a web developer for Research In Motion (RIM) working on Webkit, a robotics software developer at Cogmation Robotics, and I am currently employed full time by Invenia Technical Computing. You can find more details on my <a href="http://ca.linkedin.com/pub/dale-hamel/34/45b/6b9" title="linked in">linked in</a>.</p>
+
+<h2>What is the point of this site?</h2>
+
+<p>In my spare time, I like to fool around with Linux. Right now I am using Gentoo, a quick switch from Archlinux, after jumping ship from Ubuntu at the first sign of the new "unity" interface. I also regularly (at least once a week, and ideally 3 times a week) practice Bikram Hatha hot yoga.</p>
+
+<p>I'm also very opinionated. Over the coming months (and, dare I say, years?) I'll be adding to this site, with things as minor as articles I've found interesting, all the way up to full tutorials written by me. You can expect the odd (or frequent) rant about something FOSS related here too.</p>
+
+<h2>How can you contact me?</h2>
+
+<p>If you are interested in anything that you've read on this site and would like to contact me, you can email me at dale.hamel@srvthe.net, or join my irc server at irc.srvthe.net, or pop by via my the web interface at chat.srvthe.net #chat</p>
+
+<p>You can of course always just post a comment right on the site.</p>

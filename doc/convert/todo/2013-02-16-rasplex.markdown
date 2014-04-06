@@ -1,0 +1,17 @@
+---
+layout: page
+status: publish
+published: true
+title: Rasplex
+author: dale.hamel
+author_login: umhameld
+author_email: daleha@gmail.com
+wordpress_id: 562
+wordpress_url: http://blog.srvthe.net/?page_id=562
+date: 2013-02-16 21:42:58.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+This page is deprecated, check out our new home at <a href="http://rasplex.com">rasplex.com</a>
+

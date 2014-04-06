@@ -1,0 +1,16 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+title: Home
+author: dale.hamel
+author_login: umhameld
+author_email: daleha@gmail.com
+wordpress_id: 518
+wordpress_url: http://blog.srvthe.net/?p=518
+date: 2013-02-08 14:46:51.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+

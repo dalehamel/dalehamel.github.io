@@ -1,0 +1,12 @@
+---
+title: title
+layout: post
+tags: []
+---
+
+
+So, I just posted an article on Linux command line usage.
+
+I specifically warn that "rm -rf can be dangerous".
+
+I just spent the past 2 hours trying to undelete a folder I accidentally obliterated. Thank god for archlinux.

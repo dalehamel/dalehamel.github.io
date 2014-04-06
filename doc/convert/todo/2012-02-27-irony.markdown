@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: Irony
+author: dale.hamel
+author_login: umhameld
+author_email: daleha@gmail.com
+wordpress_id: 229
+wordpress_url: http://srvthe.net/blog/?p=229
+date: 2012-02-27 08:42:32.000000000 -05:00
+categories:
+- Administration
+tags: []
+comments: []
+---
+<p>So, I just posted an article on Linux command line usage.</p>
+
+<p>I specifically warn that "rm -rf can be dangerous".</p>
+
+<p>I just spent the past 2 hours trying to undelete a folder I accidentally obliterated. Thank god for archlinux.</p>

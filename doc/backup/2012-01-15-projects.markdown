@@ -1,0 +1,81 @@
+---
+title: Projects
+modified: 2012-01-15
+layout: post
+tags: []
+---
+
+
+You can view the source/text for these projects at [gitweb](http://git.srvthe.net "gitweb"), I also have my open-source projects for work/school hosted [on my github](https://github.com/dalehamel "on my github")
+
+I also have [videos](http://blog.srvthe.net/videos "Videos") for some of my projects.
+
+Tinkering
+=========
+
+Plex on RPi - rasplex
+---------------------
+
+I have been fooling around with the Raspberry pi a lot lately, I am trying to get Plex Media Center running on it, as it would be the ideal frontend, and it has been shown to have the hardware capacity to run it as demonstrated by the Xbmc ports to it. I was recently able to get PlexHT building on RPi, and am organizing an optimization and distribution effort on [this trello board](https://trello.com/board/plex-on-raspberry-pi/510c4d34e1d17df66c00092a) [![](http://blog.srvthe.net/wp-content/uploads/2013/02/551437_10151245340766302_633863261_n-225x300.jpg "551437_10151245340766302_633863261_n")](http://blog.srvthe.net/?attachment_id=600) Here's the pre-beta running on my test machine
+
+Raspberry pi plex playback - pyplex
+-----------------------------------
+
+So far I have had some success with [A Python OMXPlayer wrapper](https://github.com/dalehamel/pyplex), which uses an iPhone or Android plex app to control playback on the Raspberry Pi. This is a good first step, as it allows displaying content through the RPi. I'm currently working on bundling this up, and then I hope to start working on a complete plex-linux port, funded by Indygogo.
+
+Contract work
+=============
+
+I developed the initial draft for the [World Center for Creative Communications (WCCE)](http://wcceglobal.org "World Center for Creative Communications (WCCE)") website. It was done in web2py, using bootstrap for CSS, jQuery for javascript, and hosted on AWS.
+
+School projects
+===============
+
+Software engineering
+--------------------
+
+-   You can view my 3rd year software development class group project (from summer 2010) [here](http://git.srvthe.net/?p=mp3350.git;a=summary "here")
+
+AI and robotics
+---------------
+
+-   [This is a paper](http://git.srvthe.net/?p=geneticalg.git;a=summary "this is a paper") that I wrote for the first year AI class on genetic algorithms, as well as the working example using a python-based pacman simulation.
+
+Work projects
+=============
+
+BIRCH
+-----
+
+BIRCH is an opensource bio-informatics program created by the UofM. I am doing backend work, converting it into the modern era. Right now, I am automating the build system, and transitioning the codebase to git.
+
+Cogmation Robotics
+------------------
+
+I can't say much about what I do at Cogmation as I'm NDA'd. I work on robotic simulation software, specifically, developing everything from low-level communication drivers for specific robots, to higher level behaviors intended to be generic to any type of robot with a given set of sensors and actuators.
+
+What I can tell you is that i wrote the low level serial interface for the [pcbot 914](http://www.whiteboxrobotics.com/ "pcbot")
+
+Personal
+========
+
+CS Undergraduate IRC server
+---------------------------
+
+I host, maintain, and co-moderate an IRC server that is used primarily by CS undergraduates. It has been online for over a year now, and the community is more active and growing faster than I even thought it would.
+
+Git-kit
+-------
+
+Git-kit is a python-based wrapper around git intended to be a sort of "git for dummies". It is hosted on my github. It is robust, offers scripting support, automatic synchronization of workspaces, and wrappers for common git tasks. It is written as a conversational command line program, but I've made every effort to keep things modular and follow standard M/V/C design patterns.
+
+Home multimedia
+---------------
+
+One of the things that got me started on linux was a pet project to setup my own home multimedia system. I used ubuntu as a multimedia backend (serving up all of my media files, recording TV, running a webscraper on IMDB which eventually had a SQL backend).
+
+I use a variety of frontends, usually whatever old or obsolete hardware I have lying around. I actually use the first computer that I ever bought (over 9 years ago!) as a frontend for one of my TVs, as well as an old, original X-box, and most recently a PS-3.
+
+This project was a great chance for me to learn the essentials of networking hands on.
+
+Currently, I have switched my multimedia setup to a combination of Plex and Xbmc. I have gotten plex compiling on Gentoo linux, and am working on an ebuild for it so that others may use it.

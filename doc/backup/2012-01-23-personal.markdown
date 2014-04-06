@@ -1,0 +1,15 @@
+---
+title: Personal
+modified: 2012-01-23
+layout: post
+tags: []
+---
+
+
+Here is the part of the site where you can get to know the real me... at least while keeping it from being NSFW.
+
+So far, these are the personal posts that I've made
+
+-   [Getting things rolling](http://blog.srvthe.net/archives/10 "Getting things rolling")
+-   [Living Alone](http://blog.srvthe.net/archives/71 "Living alone")
+

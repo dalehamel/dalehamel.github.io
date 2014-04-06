@@ -1,0 +1,46 @@
+---
+layout: page
+status: publish
+published: true
+title: Videos
+author: dale.hamel
+author_login: umhameld
+author_email: daleha@gmail.com
+wordpress_id: 168
+wordpress_url: http://prometheus.gotdns.com:88/wordpress/?page_id=168
+date: 2012-02-26 22:39:43.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+<p>This page contains some youtube videos that I've made.</p>
+
+<h1>Kraid's Lair on an AtMega128</h1>
+
+<p>This was done for an assignment for my Realtime Systems class. It was done on at AtMega128 microcontroller, written in scratch from C, and uses pulse-width modulation to synthesize notes read from the onboard flash memory. It was a really fun (and hard!) assignment, so I made this video.</p>
+
+<p>The song that I synthesized is "Kraid's Lair", from the the old Nes metroid - my favorite classic game of all time.</p>
+
+<p>httpv://www.youtube.com/watch?v=612GpkzEGn8</p>
+
+<h1>Genetic Pacman Simulation</h1>
+
+<p>This was from a <a href="http://blog.srvthe.net/wp-content/uploads/2012/02/pdf_paperfinal.pdf" title="paper">paper</a> that I wrote as a term project for my intro AI class.</p>
+
+<p>The paper describes (overviews) how Genetic Algorithms work, and uses a Pacman simulation as a case study for how they can be used to for learning behaviors.</p>
+
+<p>The actual video is of a pacman who learned to survive the ghost and consume all of the pellets.</p>
+
+<p>This was another fun (though the paper took forever to research and write) assignment. I have always had an interest in biology, and I find biologically and naturally inspired techniques.</p>
+
+<p>httpv://www.youtube.com/watch?v=5_wKs2pat_U</p>
+
+<h1>Mandelbrot Fractal</h1>
+
+<p>So, this video is really old, from before I was even in Computer Science.</p>
+
+<p>I have always found fractals, like all recursive algorithms, to be very interesting. I made this video years ago and posted it on youtube. It has actually had almost half a million views! I ended up making some money off of it, so I included it here.</p>
+
+<p>Generating this video was my first lesson in asymptotic runtime.</p>
+
+<p>httpv://www.youtube.com/watch?v=pMGo7jFH-A8</p>

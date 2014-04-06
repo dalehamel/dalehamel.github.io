@@ -1,0 +1,41 @@
+---
+title: Videos
+layout: post
+tags: []
+---
+
+
+This page contains some youtube videos that I've made.
+
+Kraid's Lair on an AtMega128
+============================
+
+This was done for an assignment for my Realtime Systems class. It was done on at AtMega128 microcontroller, written in scratch from C, and uses pulse-width modulation to synthesize notes read from the onboard flash memory. It was a really fun (and hard!) assignment, so I made this video.
+
+The song that I synthesized is "Kraid's Lair", from the the old Nes metroid - my favorite classic game of all time.
+
+httpv://www.youtube.com/watch?v=612GpkzEGn8
+
+Genetic Pacman Simulation
+=========================
+
+This was from a [paper](http://blog.srvthe.net/wp-content/uploads/2012/02/pdf_paperfinal.pdf "paper") that I wrote as a term project for my intro AI class.
+
+The paper describes (overviews) how Genetic Algorithms work, and uses a Pacman simulation as a case study for how they can be used to for learning behaviors.
+
+The actual video is of a pacman who learned to survive the ghost and consume all of the pellets.
+
+This was another fun (though the paper took forever to research and write) assignment. I have always had an interest in biology, and I find biologically and naturally inspired techniques.
+
+httpv://www.youtube.com/watch?v=5\_wKs2pat\_U
+
+Mandelbrot Fractal
+==================
+
+So, this video is really old, from before I was even in Computer Science.
+
+I have always found fractals, like all recursive algorithms, to be very interesting. I made this video years ago and posted it on youtube. It has actually had almost half a million views! I ended up making some money off of it, so I included it here.
+
+Generating this video was my first lesson in asymptotic runtime.
+
+httpv://www.youtube.com/watch?v=pMGo7jFH-A8
