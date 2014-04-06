@@ -11,9 +11,9 @@ owner:
   bio:            "I'm an Opsguy at Shopify, and the creator and maintainer of RasPlex. I love hacking, death metal, and folk music."
   email:          dale.hamel@srvthe.net
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/dalehamel
+  twitter:        dalehamel
   facebook:       
-  github:         https://github.com/dalehamel
+  github:         dalehamel
   stackexchange:  
   linkedin:       http://www.linkedin.com/pub/dale-hamel/34/45b/6b9
   instagram:      
