@@ -1,5 +1,6 @@
 ---
 title: Making Peace With Apple
+modified: 2012-03-12
 layout: post
 tags: []
 ---

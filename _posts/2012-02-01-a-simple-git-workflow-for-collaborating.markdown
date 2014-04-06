@@ -1,5 +1,6 @@
 ---
 title: A Simple Git Workflow For Collaborating
+modified: 2012-02-01
 layout: post
 tags: []
 ---

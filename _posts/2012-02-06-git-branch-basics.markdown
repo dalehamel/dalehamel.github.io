@@ -1,5 +1,6 @@
 ---
 title: Git Branch Basics
+modified: 2012-02-06
 layout: post
 tags: []
 ---

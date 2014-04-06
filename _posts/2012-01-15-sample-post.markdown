@@ -1,5 +1,6 @@
 ---
 title: Sample Post
+modified: 2012-01-15
 layout: post
 tags: []
 ---

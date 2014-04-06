@@ -1,5 +1,6 @@
 ---
 title: I Now Understand What A Real Smart Phone Is
+modified: 2012-03-17
 layout: post
 tags: []
 ---

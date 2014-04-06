@@ -1,5 +1,6 @@
 ---
 title: Dd Wrt Unleash Your Router
+modified: 2012-02-27
 layout: post
 tags: []
 ---
@@ -27,7 +28,7 @@ I was so excited, I went out and bought 2 of the very same router (using one as 
 
 # Caveats
 
-+ You have to <a href="http://www.dd-wrt.com/wiki/index.php/Supported_Devices" Dd Wrt Unleash Your Router="investigate">investigate</a>the router to make sure you buy a supported model and hardware revision 
++ You have to [investigate](http://www.dd-wrt.com/wiki/index.php/Supported_Devices) the router to make sure you buy a supported model and hardware revision 
 + There is a bug where you have to manually enter an iptables rule to get loopback working - this only matters if you are developing and hosting a website locally.
 + The number of options can be intimidating!
 
