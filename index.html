@@ -20,7 +20,8 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {{ post.content | strip_html | truncatewords:75}}<br>
+     <a href="{{ post.url }}">Read more...</a><br><br>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}
