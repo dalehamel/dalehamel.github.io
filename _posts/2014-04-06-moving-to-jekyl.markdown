@@ -2,6 +2,7 @@
 title: Moving to jekyll
 modified: 2014-04-06
 layout: post
+comments: true
 tags: []
 ---
 

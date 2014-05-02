@@ -2,6 +2,7 @@
 title: Gentoo On Macbook Pro Retina
 modified: 2014-02-14
 layout: post
+comments: true
 redirect_from:
   - /archives/667/
   - /blog/?p=667/
