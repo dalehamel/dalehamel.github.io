@@ -2,6 +2,7 @@
 title: i3 Window Manager
 modified: 2014-04-06
 layout: post
+comments: true
 tags: []
 ---
 
