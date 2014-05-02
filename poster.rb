@@ -36,6 +36,7 @@ def new(title, type)
     "modified" => datelong,
     "layout"   => type,
     "tags"     => []
+    "comments" => true
   }
 
   header = YAML.dump(header_data)
