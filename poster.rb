@@ -35,7 +35,7 @@ def new(title, type)
     "title"    => title,
     "modified" => datelong,
     "layout"   => type,
-    "tags"     => []
+    "tags"     => [],
     "comments" => true
   }
 
