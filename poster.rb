@@ -2,6 +2,7 @@
 
 require 'httparty'
 require 'yaml'
+require 'yaml'
 require 'uri'
 
 $config = YAML::load( File.open( 'private.yml' ) )
@@ -11,17 +12,21 @@ $creds = $config['tinycc']
 def minify( post_url, slug )
   post_uri = URI.escape(post_url)
   url = "http://tiny.cc/?c=rest_api&m=shorten&version=2.0.3&format=json&shortUrl=#{slug}&longUrl=#{post_uri}&login=#{$creds['user']}&apiKey=#{$creds['key']}"
-  #response = HTTParty.get(url)
-  return url
+  response = HTTParty.get(url)
+  mini =  JSON.parse(response.body)['results']['short_url']
+  return mini
 end
 
 
-def publish
-  post_url='http://blog.srvthe.net'
-  slug='blah'
-  url = minify(post_url,slug)
-  puts url
+def publish( slug, path )
+  rest_component = path.gsub("_posts/","").gsub(".markdown","").gsub("/","").split("-")[3..-1].join("-")
+  post_url = "http://blog.srvthe.net/#{rest_component}/"
+  mini_url = minify(post_url,slug)
 
+  puts `t update "Check out my new blog post! #{mini_url}"`
+  puts `fbcmd status "Check out my new blog post! #{post_url}"`
+
+  puts "Post published!"
 end
 
 
@@ -53,9 +58,15 @@ end
 
 
 command = ARGV[0]
-type    = ARGV[1]
-title   = ARGV[2]
 
 if command == 'new'
+  type    = ARGV[1]
+  title   = ARGV[2]
+
   new(title, type)
+elsif command == 'publish'
+  slug    = ARGV[1]
+  path    = ARGV[2]
+
+  publish(slug, path)
 end
