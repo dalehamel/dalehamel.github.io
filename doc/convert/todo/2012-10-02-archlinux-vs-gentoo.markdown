@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 380
-wordpress_url: http://blog.srvthe.net/?p=380
+wordpress_url: https://blog.srvthe.net/?p=380
 date: 2012-10-02 20:35:24.000000000 -04:00
 categories:
 - Uncategorized
@@ -157,7 +157,7 @@ comments:
 - id: 1971
   author: hammackj
   author_email: nospam@hammackj.com
-  author_url: http://hammackj.com
+  author_url: https://hammackj.com
   date: '2013-10-01 16:08:54 -0400'
   date_gmt: '2013-10-01 16:08:54 -0400'
   content: "I rarely even notice when I have to recompile apps, except for Chrome/Firefox/OO.
@@ -190,7 +190,7 @@ comments:
   author_url: ''
   date: '2013-10-15 20:53:00 -0400'
   date_gmt: '2013-10-15 20:53:00 -0400'
-  content: You should try sabayon (http://www.sabayon.org/) which is a binary gentoo
+  content: You should try sabayon (https://www.sabayon.org/) which is a binary gentoo
     distribution. It uses the entropy package management which is compatible with
     portage. So yes, on this system you can use both. Whenever I need a fine grained
     installation and options I use emerge (portage) and for other stuff I use equo

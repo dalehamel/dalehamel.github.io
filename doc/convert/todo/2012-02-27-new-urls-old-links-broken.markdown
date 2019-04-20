@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 227
-wordpress_url: http://srvthe.net/blog/?p=227
+wordpress_url: https://srvthe.net/blog/?p=227
 date: 2012-02-27 08:35:03.000000000 -05:00
 categories:
 - Administration

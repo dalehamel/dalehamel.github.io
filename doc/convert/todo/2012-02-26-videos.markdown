@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 168
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?page_id=168
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?page_id=168
 date: 2012-02-26 22:39:43.000000000 -05:00
 categories: []
 tags: []
@@ -25,7 +25,7 @@ comments: []
 
 <h1>Genetic Pacman Simulation</h1>
 
-<p>This was from a <a href="http://blog.srvthe.net/wp-content/uploads/2012/02/pdf_paperfinal.pdf" title="paper">paper</a> that I wrote as a term project for my intro AI class.</p>
+<p>This was from a <a href="https://blog.srvthe.net/wp-content/uploads/2012/02/pdf_paperfinal.pdf" title="paper">paper</a> that I wrote as a term project for my intro AI class.</p>
 
 <p>The paper describes (overviews) how Genetic Algorithms work, and uses a Pacman simulation as a case study for how they can be used to for learning behaviors.</p>
 

@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 565
-wordpress_url: http://blog.srvthe.net/?page_id=565
+wordpress_url: https://blog.srvthe.net/?page_id=565
 date: 2013-02-16 21:46:16.000000000 -05:00
 categories: []
 tags: []
@@ -52,6 +52,6 @@ comments:
   date_gmt: '2013-03-14 06:10:23 -0400'
   content: Did you try using the -b flag?
 ---
-This page is deprecated, check out our new home at <a href="http://rasplex.com">rasplex.com</a>
+This page is deprecated, check out our new home at <a href="https://rasplex.com">rasplex.com</a>
 
-The equivalent page is <a href="http://rasplex.com/get-started/download-rasplex.html">here</a>
+The equivalent page is <a href="https://rasplex.com/get-started/download-rasplex.html">here</a>

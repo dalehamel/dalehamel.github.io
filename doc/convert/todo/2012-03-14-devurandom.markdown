@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 252
-wordpress_url: http://srvthe.net/blog/?page_id=252
+wordpress_url: https://srvthe.net/blog/?page_id=252
 date: 2012-03-14 00:38:43.000000000 -04:00
 categories: []
 tags: []
@@ -20,5 +20,5 @@ comments: []
 <h1>Posts</h1>
 
 <ul>
-<li><a href="http://srvthe.net/blog/archives/321" title="Almost half a million views!">My awesome fractal video</a> </li>
+<li><a href="https://srvthe.net/blog/archives/321" title="Almost half a million views!">My awesome fractal video</a> </li>
 </ul>

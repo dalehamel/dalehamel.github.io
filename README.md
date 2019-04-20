@@ -25,12 +25,12 @@ My old blog had hooks to post to Facebook and Twitter when I made a new post. Si
 
 I really like tiny.cc for url minification because it allows you to create meaningful slugs.
 
-Read the [api docs](http://tiny.cc/api-docs) and check out my poster.rb tool to see how I minify the urls.
+Read the [api docs](https://tiny.cc/api-docs) and check out my poster.rb tool to see how I minify the urls.
 
 
 ## Twitter
 
-Using [t](http://sferik.github.io/t/) it's really easy to start posting from command line:
+Using [t](https://sferik.github.io/t/) it's really easy to start posting from command line:
 
 ```
  t update "My update with a minified link to my blog"
@@ -38,7 +38,7 @@ Using [t](http://sferik.github.io/t/) it's really easy to start posting from com
 
 ## Facebook
 
-Unfortunately the best toolkit I found was in PHP. Oh well. I followed [this guide](http://xmodulo.com/2014/01/access-facebook-command-line-linux.html) and posting is done like:
+Unfortunately the best toolkit I found was in PHP. Oh well. I followed [this guide](https://xmodulo.com/2014/01/access-facebook-command-line-linux.html) and posting is done like:
 
 ```
  fbcmd post "A post to my facebook wall"

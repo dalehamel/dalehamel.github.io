@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 161
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?p=161
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?p=161
 date: 2012-02-28 15:38:05.000000000 -05:00
 categories:
 - FOSS
@@ -21,7 +21,7 @@ comments: []
 ---
 <h1>Why learn about commits?</h1>
 
-<p>In case in happens (when it happens) that you or one of your collaborators fscks up a merge, rebase, and/or  ( <strong> breaks from whatever your establish workflow is </strong>) (I recommend <a href="http://srvthe.net/blog/archives/86" title="A simple git workflow for collaborating">this simple one</a>, and <a href="http://srvthe.net/blog/archives/138" title="Git workflow with Redmine integration: the 4 tier system">the 4 tier system</a>).</p>
+<p>In case in happens (when it happens) that you or one of your collaborators fscks up a merge, rebase, and/or  ( <strong> breaks from whatever your establish workflow is </strong>) (I recommend <a href="https://srvthe.net/blog/archives/86" title="A simple git workflow for collaborating">this simple one</a>, and <a href="https://srvthe.net/blog/archives/138" title="Git workflow with Redmine integration: the 4 tier system">the 4 tier system</a>).</p>
 
 <p>Just remember the commit golden rule: <strong> Make a commit when you you are (or are about to be!) frustrated, or, if you think you may have made progress, or that something is wrong.</strong></p>
 
@@ -54,7 +54,7 @@ comments: []
 
 <h1>What is a commit?</h1>
 
-<p>Commits make up your branches. This article complements my post on <a href="http://prometheus.gotdns.com:88/wordpress/archives/150" title="Git branch basics">git branch basics</a>.</p>
+<p>Commits make up your branches. This article complements my post on <a href="https://prometheus.gotdns.com:88/wordpress/archives/150" title="Git branch basics">git branch basics</a>.</p>
 
 <h2>Conceptually</h2>
 

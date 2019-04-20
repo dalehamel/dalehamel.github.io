@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 377
-wordpress_url: http://blog.srvthe.net/?p=377
+wordpress_url: https://blog.srvthe.net/?p=377
 date: 2012-09-22 07:05:43.000000000 -04:00
 categories:
 - Uncategorized
@@ -25,7 +25,7 @@ comments:
 - id: 24
   author: Cortny Adair Hitch on Facebook
   author_email: 1310638091@facebook.com
-  author_url: http://www.facebook.com/profile.php?id=1310638091
+  author_url: https://www.facebook.com/profile.php?id=1310638091
   date: '2012-09-22 17:59:20 -0400'
   date_gmt: '2012-09-22 17:59:20 -0400'
   content: you so smart :)
@@ -51,7 +51,7 @@ comments:
 - id: 41
   author: harald
   author_email: haraldb.kleppe@gmail.com
-  author_url: http://rald.nl
+  author_url: https://rald.nl
   date: '2012-12-27 10:16:21 -0500'
   date_gmt: '2012-12-27 10:16:21 -0500'
   content: Any updates on the situation here? I have the impression from the community

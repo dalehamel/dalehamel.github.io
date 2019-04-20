@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 549
-wordpress_url: http://blog.srvthe.net/?p=549
+wordpress_url: https://blog.srvthe.net/?p=549
 date: 2013-02-15 01:40:58.000000000 -05:00
 categories:
 - Uncategorized
@@ -33,6 +33,6 @@ If there are no major issues found with rc8, I am going to promote it to "stable
 
 0.1 final won't be the last release of rasplex as there is still lots to do, and PHT is still being developed, but it is a landmark signifying a relatively stable, use-able build.
 
-You can get <a href="http://rasplex.srvthe.net/rasplex-unstable.img.zip" title="rc8 here">rc8 here</a>.
+You can get <a href="https://rasplex.srvthe.net/rasplex-unstable.img.zip" title="rc8 here">rc8 here</a>.
 
-If you like the project, please <a href="http://srvthe.net">donate : ) to help support it</a>
+If you like the project, please <a href="https://srvthe.net">donate : ) to help support it</a>

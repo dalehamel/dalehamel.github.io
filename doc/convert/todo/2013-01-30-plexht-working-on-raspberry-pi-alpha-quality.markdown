@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 407
-wordpress_url: http://blog.srvthe.net/?p=407
+wordpress_url: https://blog.srvthe.net/?p=407
 date: 2013-01-30 06:23:36.000000000 -05:00
 categories:
 - Uncategorized
@@ -17,7 +17,7 @@ comments:
 - id: 71
   author: Finn Nyman
   author_email: finn@neuman.nu
-  author_url: http://www.neuman.nu
+  author_url: https://www.neuman.nu
   date: '2013-01-30 08:18:56 -0500'
   date_gmt: '2013-01-30 08:18:56 -0500'
   content: You sir, are my hero! Please let me know if you need help testing (I am
@@ -25,7 +25,7 @@ comments:
 - id: 73
   author: Bobby
   author_email: idontknowhisname@gmail.com
-  author_url: http://hba.me
+  author_url: https://hba.me
   date: '2013-01-30 14:09:59 -0500'
   date_gmt: '2013-01-30 14:09:59 -0500'
   content: I'm happy to help with testing.

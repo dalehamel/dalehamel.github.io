@@ -8,7 +8,7 @@ tags: []
 Available as bleeding edge build
 ================================
 
-You can get it using the instructions at [rasplex download page](http://blog.srvthe.net/get-rasplex "Get rasplex") for bleeding edge builds, until it is promoted to stable.
+You can get it using the instructions at [rasplex download page](https://blog.srvthe.net/get-rasplex "Get rasplex") for bleeding edge builds, until it is promoted to stable.
 
 Lots of platform changes
 ========================
@@ -29,4 +29,4 @@ The HEAD merge changes appear to have made fanouts **even slower**, which is pr
 Sorry about all the ads
 =======================
 
-Since rasplex hasn't been receiving any donations lately, I've been forced to put a shameful amount of ads on the blog. Just a reminder to everyone that I don't take any money donated to rasplex, it all gets reinvested in the project (along with the advertisement revenue). If you like the project, please donate at the [donation page](http://srvthe.net "donation") to support future updates and features! These features and patches don't write themselves ;)
+Since rasplex hasn't been receiving any donations lately, I've been forced to put a shameful amount of ads on the blog. Just a reminder to everyone that I don't take any money donated to rasplex, it all gets reinvested in the project (along with the advertisement revenue). If you like the project, please donate at the [donation page](https://srvthe.net "donation") to support future updates and features! These features and patches don't write themselves ;)

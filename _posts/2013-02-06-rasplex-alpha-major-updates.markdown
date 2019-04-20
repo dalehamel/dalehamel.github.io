@@ -17,7 +17,7 @@ If you're tracking our progress on our [trello board](https://trello.com/board/p
 Various fixes
 =============
 
-We now have an alpha that I consider to be fairly useable. There are still some major bugs remaining, particularly the prefere nces panel is completely unuseable. If you'd like to try it out, I updated the [quick install blog post](http://blog.srvthe.net/archives/474).
+We now have an alpha that I consider to be fairly useable. There are still some major bugs remaining, particularly the prefere nces panel is completely unuseable. If you'd like to try it out, I updated the [quick install blog post](https://blog.srvthe.net/archives/474).
 
 Added features
 ==============

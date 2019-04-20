@@ -7,9 +7,9 @@ tags: []
 
 This is the four tier git workflow. Higher levels are the most tested, lower levels are the most experimental/volatile. To update a branch at a particular tier, you pull from the branch at the tier above. The process of pushing code to a higher tier is called "promotion", and is best performed via a rebase. Code promotion should only be done to signify that a feature has been tested enough to be promoted.
 
-This workflow has been assembled from various useful sources, including ( but not limited to ) [the official git scm book](http://book.git-scm.com/ "the official git book"), [progit](http://progit.org/book/ "progit"), and [git ready](http://gitready.com/ "git ready"). Github also has some nice info, though it is hard to find, and often github specific.
+This workflow has been assembled from various useful sources, including ( but not limited to ) [the official git scm book](https://book.git-scm.com/ "the official git book"), [progit](https://progit.org/book/ "progit"), and [git ready](https://gitready.com/ "git ready"). Github also has some nice info, though it is hard to find, and often github specific.
 
-Note: whenever performing a rebase or switching branches you must have a clean working tree. This means any changes have been committed or stashed. This is enforced by git so that you don't overwrite any untracked changes. I prefer rebases over git merges, and always do pull --rebase, instead of a git pull. Git pull runs "git fetch && git merge", whereas git pull --rebase runs "git fetch && git rebase". Rebasing tends to work better in my experience, and keeps the history clean of merge commits. For more information, see [progit section](http://progit.org/book/ch3-6.html "progit section") on rebasing.
+Note: whenever performing a rebase or switching branches you must have a clean working tree. This means any changes have been committed or stashed. This is enforced by git so that you don't overwrite any untracked changes. I prefer rebases over git merges, and always do pull --rebase, instead of a git pull. Git pull runs "git fetch && git merge", whereas git pull --rebase runs "git fetch && git rebase". Rebasing tends to work better in my experience, and keeps the history clean of merge commits. For more information, see [progit section](https://progit.org/book/ch3-6.html "progit section") on rebasing.
 
 Tier 1: master
 ==============
@@ -21,7 +21,7 @@ This is the default branch when a repository is cloned or created.
 Tier 2: unstable
 ================
 
-Push here once you are pretty sure your feature as done (and have tested it in your deployment environment). Mark it up to 80% in redmine ( or less, depending on your confidence in how done it is). This is the branch you will use for collaboration with your team. For SVN developers, this replaces the "svn upstream trunk". When you push code to upstream unstable, mark down the HEAD SHA at the time that you pushed on any relevant redmine features. Or even better, [tag it](http://learn.github.com/p/tagging.html "tag it") so that it isn't just a SHA1 hash, and is more descriptive for the other developers.
+Push here once you are pretty sure your feature as done (and have tested it in your deployment environment). Mark it up to 80% in redmine ( or less, depending on your confidence in how done it is). This is the branch you will use for collaboration with your team. For SVN developers, this replaces the "svn upstream trunk". When you push code to upstream unstable, mark down the HEAD SHA at the time that you pushed on any relevant redmine features. Or even better, [tag it](https://learn.github.com/p/tagging.html "tag it") so that it isn't just a SHA1 hash, and is more descriptive for the other developers.
 
 To create the unstable branch:
 
@@ -71,7 +71,7 @@ To create a feature branch:
 -   git checkout your\_name
 -   git checkout -b feature\_name
 
-To update a feature branch (note: this is simplified by setting up [tracking branches](http://book.git-scm.com/4_tracking_branches.html "tracking branches"):
+To update a feature branch (note: this is simplified by setting up [tracking branches](https://book.git-scm.com/4_tracking_branches.html "tracking branches"):
 
 -   git checkout your\_name
 -   git pull --rebase origin unstable && git rebase unstable your\_name

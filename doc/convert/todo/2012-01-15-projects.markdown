@@ -7,15 +7,15 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 40
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?page_id=40
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?page_id=40
 date: 2012-01-15 22:47:55.000000000 -05:00
 categories: []
 tags: []
 comments: []
 ---
-<p>You can view the source/text for these projects at <a href="http://git.srvthe.net" title="gitweb">gitweb</a>, I also have my open-source projects for work/school hosted <a href="https://github.com/dalehamel" title="on my github">on my github</a></p>
+<p>You can view the source/text for these projects at <a href="https://git.srvthe.net" title="gitweb">gitweb</a>, I also have my open-source projects for work/school hosted <a href="https://github.com/dalehamel" title="on my github">on my github</a></p>
 
-<p>I also have <a href="http://blog.srvthe.net/videos" title="Videos">videos</a> for some of my projects.</p>
+<p>I also have <a href="https://blog.srvthe.net/videos" title="Videos">videos</a> for some of my projects.</p>
 
 <h1>Tinkering</h1>
 
@@ -24,7 +24,7 @@ comments: []
 I have been fooling around with the Raspberry pi a lot lately, I am trying to get Plex Media Center running on it, as it would be the ideal frontend, and it has been shown to have the hardware capacity to run it as demonstrated by the Xbmc ports to it.
 
 I was recently able to get PlexHT building on RPi, and am organizing an optimization and distribution effort on <a href="https://trello.com/board/plex-on-raspberry-pi/510c4d34e1d17df66c00092a">this trello board</a>
-<a href="http://blog.srvthe.net/?attachment_id=600"><img src="http://blog.srvthe.net/wp-content/uploads/2013/02/551437_10151245340766302_633863261_n-225x300.jpg" alt="" title="551437_10151245340766302_633863261_n" width="225" height="300" class="alignnone size-medium wp-image-600" /></a>
+<a href="https://blog.srvthe.net/?attachment_id=600"><img src="https://blog.srvthe.net/wp-content/uploads/2013/02/551437_10151245340766302_633863261_n-225x300.jpg" alt="" title="551437_10151245340766302_633863261_n" width="225" height="300" class="alignnone size-medium wp-image-600" /></a>
 
 
 Here's the pre-beta running on my test machine 
@@ -39,20 +39,20 @@ I'm currently working on bundling this up, and then I hope to start working on a
 
 <h1>Contract work</h1>
 
-<p>I developed the initial draft for the <a href="http://wcceglobal.org" title="World Center for Creative Communications (WCCE)">World Center for Creative Communications (WCCE)</a> website. It was done in web2py, using bootstrap for CSS, jQuery for javascript, and hosted on AWS.</p>
+<p>I developed the initial draft for the <a href="https://wcceglobal.org" title="World Center for Creative Communications (WCCE)">World Center for Creative Communications (WCCE)</a> website. It was done in web2py, using bootstrap for CSS, jQuery for javascript, and hosted on AWS.</p>
 
 <h1>School projects</h1>
 
 <h2>Software engineering</h2>
 
 <ul>
-<li>You can view my 3rd year software development class group project (from summer 2010) <a href="http://git.srvthe.net/?p=mp3350.git;a=summary" title="here">here</a></li>
+<li>You can view my 3rd year software development class group project (from summer 2010) <a href="https://git.srvthe.net/?p=mp3350.git;a=summary" title="here">here</a></li>
 </ul>
 
 <h2>AI and robotics</h2>
 
 <ul>
-<li><a href="http://git.srvthe.net/?p=geneticalg.git;a=summary" title="this is a paper">This is a paper</a> that I wrote for the first year AI class on genetic algorithms, as well as the working example using a python-based pacman simulation. </li>
+<li><a href="https://git.srvthe.net/?p=geneticalg.git;a=summary" title="this is a paper">This is a paper</a> that I wrote for the first year AI class on genetic algorithms, as well as the working example using a python-based pacman simulation. </li>
 </ul>
 
 <h1>Work projects</h1>
@@ -65,7 +65,7 @@ I'm currently working on bundling this up, and then I hope to start working on a
 
 <p>I can't say much about what I do at Cogmation as I'm NDA'd. I work on robotic simulation software, specifically, developing everything from low-level communication drivers for specific robots, to higher level behaviors intended to be generic to any type of robot with a given set of sensors and actuators.</p>
 
-<p>What I can tell you is that i wrote the low level serial interface for the <a href="http://www.whiteboxrobotics.com/" title="pcbot">pcbot 914</a></p>
+<p>What I can tell you is that i wrote the low level serial interface for the <a href="https://www.whiteboxrobotics.com/" title="pcbot">pcbot 914</a></p>
 
 <h1>Personal</h1>
 

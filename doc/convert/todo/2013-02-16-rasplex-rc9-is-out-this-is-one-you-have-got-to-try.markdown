@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 560
-wordpress_url: http://blog.srvthe.net/?p=560
+wordpress_url: https://blog.srvthe.net/?p=560
 date: 2013-02-16 22:38:31.000000000 -05:00
 categories:
 - Uncategorized
@@ -44,6 +44,6 @@ We now have an <a href="https://raw.github.com/dalehamel/rasplex-installer/maste
 </ul>
 Find out more details at <a href="https://github.com/dalehamel/rasplex-installer">the installer's github</a>.
 
-Check out the<a title="Get rasplex" href="http://blog.srvthe.net/get-rasplex"> install page</a> to get started.
+Check out the<a title="Get rasplex" href="https://blog.srvthe.net/get-rasplex"> install page</a> to get started.
 
 Special thanks once again to Weelkin for getting the OpenELEC ball rolling (he's also currently working on Wifi config dialog! Go him!)

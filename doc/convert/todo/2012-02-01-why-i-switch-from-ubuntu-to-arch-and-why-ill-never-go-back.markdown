@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 105
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?p=105
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?p=105
 date: 2012-02-01 04:02:22.000000000 -05:00
 categories:
 - FOSS
@@ -19,7 +19,7 @@ tags:
 - archlinux
 comments: []
 ---
-<p>For a while, I was known pretty well exclusively as "that ubuntu geek". I would make my facebook pictures the most recent <a href="http://en.wikipedia.org/wiki/List_of_Ubuntu_releases#Naming_convention" title="ubuntu animal">ubuntu animal</a>, and whenever someone would ask me for computer help... I'd install Ubuntu along side their Windows (for the next time that their winblows inevitably broke down).</p>
+<p>For a while, I was known pretty well exclusively as "that ubuntu geek". I would make my facebook pictures the most recent <a href="https://en.wikipedia.org/wiki/List_of_Ubuntu_releases#Naming_convention" title="ubuntu animal">ubuntu animal</a>, and whenever someone would ask me for computer help... I'd install Ubuntu along side their Windows (for the next time that their winblows inevitably broke down).</p>
 
 <p>And things were great, for a while. I liked Ubuntu, and Ubuntu seemed to like me.</p>
 

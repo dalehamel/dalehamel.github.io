@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 474
-wordpress_url: http://blog.srvthe.net/?p=474
+wordpress_url: https://blog.srvthe.net/?p=474
 date: 2013-02-04 06:39:32.000000000 -05:00
 categories:
 - Uncategorized
@@ -25,16 +25,16 @@ This is a dd based approach to setting up the RPi, similar to how raspbian does 
 
 NOTE: This requires an SD of 2 GB or larger.
 <ul>
-	<li>Download the install image from <a href="http://rasplex.srvthe.net/rasplex-stable.img.zip"> here </a></li>
+	<li>Download the install image from <a href="https://rasplex.srvthe.net/rasplex-stable.img.zip"> here </a></li>
 	<li>Unzip the install image</li>
-	<li>Use <a href="http://elinux.org/RPi_Easy_SD_Card_Setup"> the appropriate tool for your platform</a> to flash the sd card</li>
+	<li>Use <a href="https://elinux.org/RPi_Easy_SD_Card_Setup"> the appropriate tool for your platform</a> to flash the sd card</li>
 	<li>Put the sd card into you Raspberry Pi</li>
 	<li>Sit back and watch PlexHT launch</li>
 </ul>
 <h1>Linux specific instructions</h1>
 [crayon lang="sh"]
 #Download and extract rasplex
-wget http://rasplex.srvthe.net/rasplex-stable.img.zip
+wget https://rasplex.srvthe.net/rasplex-stable.img.zip
 unzip rasplex-stable.img.zip
 
 #Load the image to your sd card

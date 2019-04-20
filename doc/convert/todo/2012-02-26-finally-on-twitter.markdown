@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 187
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?p=187
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?p=187
 date: 2012-02-26 23:52:10.000000000 -05:00
 categories:
 - Personal
@@ -17,7 +17,7 @@ comments:
 - id: 12
   author: Eric Davies on Facebook
   author_email: 778980581@facebook.com
-  author_url: http://www.facebook.com/profile.php?id=778980581
+  author_url: https://www.facebook.com/profile.php?id=778980581
   date: '2012-02-27 02:52:50 -0500'
   date_gmt: '2012-02-27 02:52:50 -0500'
   content: I like how you don't actually post your Twitter username.

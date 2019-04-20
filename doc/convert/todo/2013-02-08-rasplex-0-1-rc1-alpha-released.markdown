@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 519
-wordpress_url: http://blog.srvthe.net/?p=519
+wordpress_url: https://blog.srvthe.net/?p=519
 date: 2013-02-08 22:42:03.000000000 -05:00
 categories:
 - Uncategorized
@@ -24,7 +24,7 @@ comments:
 <h1>Good news everyone!</h1>
 (the above must be read with a professor Farnsworth voice), ala httpv://www.youtube.com/watch?v=HHfOejlvVsY
 
-Rasplex 0.1-rc1 alpha is ready for use, get it <a href="http://rasplex.srvthe.net/rasplex-stable.img.zip">here</a>.
+Rasplex 0.1-rc1 alpha is ready for use, get it <a href="https://rasplex.srvthe.net/rasplex-stable.img.zip">here</a>.
 
 I consider this to be the best build yet, hands down. Here is the <a href="https://trello.com/c/1oMwUL5L">feature card for the release</a>, but here's a summary of what's been added
 <ul>
@@ -50,7 +50,7 @@ You can view the plan for <a href="https://trello.com/c/dCy1Pd0a">rasplex-0.1.5<
 <h1>Thanks again to everyone who has donated, and volunteered their time</h1>
 I am keeping the donation money in the paypal account until we at least have a good beta release, then I plan on dividing it up amongst the top contributing developers (tempted as I may be to hoard it all to myself, I think it's a great incentive to get people to help ;)
 
-Speaking of donations, you can donate at the <a href="http://srvthe.net">main srvthe.net portal</a>, or by scrolling to the bottom of this page.
+Speaking of donations, you can donate at the <a href="https://srvthe.net">main srvthe.net portal</a>, or by scrolling to the bottom of this page.
 
 I want to particularly call out a few stars here...
 <ul>
@@ -63,6 +63,6 @@ I want to particularly call out a few stars here...
 </ul>
 &nbsp;
 
-Did I mention you can <a href="http://srvthe.net">donate to support this project?</a>
+Did I mention you can <a href="https://srvthe.net">donate to support this project?</a>
 
 &lt;/shamelessdonationtrolling&gt;

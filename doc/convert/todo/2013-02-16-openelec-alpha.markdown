@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 557
-wordpress_url: http://blog.srvthe.net/?p=557
+wordpress_url: https://blog.srvthe.net/?p=557
 date: 2013-02-16 05:35:53.000000000 -05:00
 categories:
 - Uncategorized
@@ -32,7 +32,7 @@ comments:
 - id: 1353
   author: mftvrocks
   author_email: mftvrocks@qq.com
-  author_url: http://www.mftvrocks.org
+  author_url: https://www.mftvrocks.org
   date: '2013-07-17 09:32:44 -0400'
   date_gmt: '2013-07-17 09:32:44 -0400'
   content: go on with the good work!
@@ -40,7 +40,7 @@ comments:
 <h1>Big Congrats to Weelkin!</h1>
 Thanks to Weelkin, we now have a functioning OpenELEC port of Raplex!
 
-You can check it out <a title="here" href="http://rasplex.srvthe.net/rasplex-openelec-rc2.img.zip">here</a>.  I am <strong>very</strong> pleased with it, and I think that instead of doing tandem releases with Gentoo and OpenELEC, I am going to make OpenELEC the main distro for Rasplex. I will still keep the gentoo port around, but it'll be only for debugging purposes.
+You can check it out <a title="here" href="https://rasplex.srvthe.net/rasplex-openelec-rc2.img.zip">here</a>.  I am <strong>very</strong> pleased with it, and I think that instead of doing tandem releases with Gentoo and OpenELEC, I am going to make OpenELEC the main distro for Rasplex. I will still keep the gentoo port around, but it'll be only for debugging purposes.
 
 OpenELEC supports various things out of box that are still buggy on the Gentoo port (CEC, lirc, and console running in background come to mind).
 

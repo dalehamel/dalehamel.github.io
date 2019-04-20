@@ -14,15 +14,15 @@ Enabling GL drawing has massively improved the speed of Rasplex. Slideshows, thu
 It's not ready yet
 ==================
 
-The downside is, that text backgrounds are still missing (making text really hard to read), and in patching for openGL i broke keyboard support inside of PHT, so iOS and android are the only way to control it. The home screen features, on-deck and recently added, load much faster than in the original version, but are still a little sluggish. I think disabling the slideshow will probably help this, but I'll let El decide on that. I'm uploading what I have now to [amazon](http://rasplex.srvthe.net/rasplex-unstable.img.zip), so that El and anyone else who is adventurous enough will be able to test it. Note that with this image, you need to do a little hack:
+The downside is, that text backgrounds are still missing (making text really hard to read), and in patching for openGL i broke keyboard support inside of PHT, so iOS and android are the only way to control it. The home screen features, on-deck and recently added, load much faster than in the original version, but are still a little sluggish. I think disabling the slideshow will probably help this, but I'll let El decide on that. I'm uploading what I have now to [amazon](https://rasplex.srvthe.net/rasplex-unstable.img.zip), so that El and anyone else who is adventurous enough will be able to test it. Note that with this image, you need to do a little hack:
 
 -   Autolaunch of plexht is disabled
 -   Login, and launch plexht
 -   It will complain about no plexpass, and be generally unuseable
 -   Reboot the Pi
 -   ~~run "cp /usr/local/share/XBMC/advancedsettings.xml /root/.plexht/userdata"~~
--   Grab the updated advanced settings from http://dl.dropbox.com/u/12363834/advancedsettings.xml with wget, and put it in /root/.plexht/userdata
--   Grab the full mediastream skin http://dl.dropbox.com/u/28603683/mediastream.zip and put it in /usr/local/share/XBMC/addons
+-   Grab the updated advanced settings from https://dl.dropbox.com/u/12363834/advancedsettings.xml with wget, and put it in /root/.plexht/userdata
+-   Grab the full mediastream skin https://dl.dropbox.com/u/28603683/mediastream.zip and put it in /usr/local/share/XBMC/addons
 -   Launch plexht and control it with the iOS or android app (be patient)
 -   Try out the full mediastream skin
 

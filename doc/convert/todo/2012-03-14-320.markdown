@@ -6,7 +6,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 320
-wordpress_url: http://srvthe.net/blog/?p=320
+wordpress_url: https://srvthe.net/blog/?p=320
 date: 2012-03-14 00:55:39.000000000 -04:00
 categories: []
 tags: []

@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 624
-wordpress_url: http://blog.srvthe.net/?p=624
+wordpress_url: https://blog.srvthe.net/?p=624
 date: 2013-03-06 06:41:45.000000000 -05:00
 categories:
 - Uncategorized
@@ -68,7 +68,7 @@ comments:
   author_url: ''
   date: '2013-03-08 20:08:35 -0500'
   date_gmt: '2013-03-08 20:08:35 -0500'
-  content: "Oh, and here's my contribution for the logo contest:\r\n\r\nhttp://i.imgur.com/L4DXedk.png"
+  content: "Oh, and here's my contribution for the logo contest:\r\n\r\nhttps://i.imgur.com/L4DXedk.png"
 - id: 408
   author: Paulo Andrade
   author_email: pfandrade@gmail.com
@@ -103,7 +103,7 @@ comments:
 - id: 1026
   author: Dani
   author_email: daniroussel@yahoo.com
-  author_url: http://newespressomachine.com/category/best-coffee-machine-for-home
+  author_url: https://newespressomachine.com/category/best-coffee-machine-for-home
   date: '2013-05-06 15:54:05 -0400'
   date_gmt: '2013-05-06 15:54:05 -0400'
   content: This post is actually a good one it assists new the web people, who are
@@ -111,7 +111,7 @@ comments:
 - id: 1224
   author: ekstraksi kulit manggis
   author_email: cliffordescobedo@aol.com
-  author_url: http://www.kulitmanggisku.com
+  author_url: https://www.kulitmanggisku.com
   date: '2013-06-19 15:56:30 -0400'
   date_gmt: '2013-06-19 15:56:30 -0400'
   content: If you want to take a great deal from this post then you have to apply
@@ -119,7 +119,7 @@ comments:
 - id: 1778
   author: RasPlex Plex for the Raspberry Pi beta is coming March 14th
   author_email: ''
-  author_url: http://connecteddigitalworld.com/2013/03/07/rasplex-plex-for-the-raspberry-pi-beta-is-coming-march-14th/
+  author_url: https://connecteddigitalworld.com/2013/03/07/rasplex-plex-for-the-raspberry-pi-beta-is-coming-march-14th/
   date: '2013-09-04 13:05:19 -0400'
   date_gmt: '2013-09-04 13:05:19 -0400'
   content: "[...] is what Dale posted on his blog: As you may know, we are planning
@@ -128,7 +128,7 @@ comments:
 <h1>Crazy busy!</h1>
 As you may know, we are planning a beta release of RasPlex for Pi day, March 14th. I've been crazy busy setting this up, and making sure we are running on all cylinders for when this happens.
 
-Rasplex will have it's own domain at <a href="http://www.rasplex.com">rasplex.com</a>, and we'll actually have official documentation and what not there.
+Rasplex will have it's own domain at <a href="https://www.rasplex.com">rasplex.com</a>, and we'll actually have official documentation and what not there.
 
 We've had a lot of great work going on, and as you may know we have releases as high as 0.1.19 out, but these are debug releases. I recommend 0.1.17 as it is currently the most stable, and it is the one that I am using right now. It will likely be the main basis for the Beta candidate, as the 0.1.20 builds I've been running have issues resulting from a recent merge with OpenELEC that has broken playback.
 <h1>Major improvements identified</h1>
@@ -138,9 +138,9 @@ More importantly, after a great deal of investigation I now believe I understand
 <h1>Vote for a logo!</h1>
 We are currently hosting a <a href="https://trello.com/board/rasplex-com/51332020cc5f0f487e00770b">logo competition</a>! You can submit your own designs directly to me, or through the trello system if you are already a member (just ask me on the chat service and i'll invite you), or comment with a link on this post with your design.
 
-Just make sure any submissions don't violate the <a href="http://www.raspberrypi.org/trademark-rules">trademark rules</a>
+Just make sure any submissions don't violate the <a href="https://www.raspberrypi.org/trademark-rules">trademark rules</a>
 <h1>Sneak preview...</h1>
-We are cooking up a few ways to fund RasPlex. I would like to get preflashed SD cards, as well as the official RasPlex case into a few online vendors. The case in this picture is a prototype that a friend of mine and I designed and 3D printed together. <a href="http://blog.srvthe.net/wp-content/uploads/2013/03/premiumrplex.jpg"><img class="alignnone size-medium wp-image-625" title="premiumrplex" src="http://blog.srvthe.net/wp-content/uploads/2013/03/premiumrplex-300x218.jpg" alt="" width="300" height="218" /></a>
+We are cooking up a few ways to fund RasPlex. I would like to get preflashed SD cards, as well as the official RasPlex case into a few online vendors. The case in this picture is a prototype that a friend of mine and I designed and 3D printed together. <a href="https://blog.srvthe.net/wp-content/uploads/2013/03/premiumrplex.jpg"><img class="alignnone size-medium wp-image-625" title="premiumrplex" src="https://blog.srvthe.net/wp-content/uploads/2013/03/premiumrplex-300x218.jpg" alt="" width="300" height="218" /></a>
 
 A few things to note:
 <ul>

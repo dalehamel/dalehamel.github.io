@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 8
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?page_id=8
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?page_id=8
 date: 2012-01-15 22:29:00.000000000 -05:00
 categories: []
 tags: []
@@ -28,7 +28,7 @@ comments: []
 <h1>Posts</h1>
 
 <ul>
-<li><a href="http://blog.srvthe.net/archives/105" title="Why I switch from Ubuntu to Arch, and why I’ll never go back">Why I switched from Ubuntu to Arch, and why I'll never go back.</a></li>
-<li><a href="http://blog.srvthe.net/archives/164" title="Yet another Linux Command line guide.">Basic linux command line tutorial</a></li>
-<li><a href="http://blog.srvthe.net/archives/239" title="DD-WRT: Unleash your router">DD-WRT: unleash your router!</a></li>
+<li><a href="https://blog.srvthe.net/archives/105" title="Why I switch from Ubuntu to Arch, and why I’ll never go back">Why I switched from Ubuntu to Arch, and why I'll never go back.</a></li>
+<li><a href="https://blog.srvthe.net/archives/164" title="Yet another Linux Command line guide.">Basic linux command line tutorial</a></li>
+<li><a href="https://blog.srvthe.net/archives/239" title="DD-WRT: Unleash your router">DD-WRT: unleash your router!</a></li>
 </ul>

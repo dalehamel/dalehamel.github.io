@@ -19,7 +19,7 @@ httpv://www.youtube.com/watch?v=612GpkzEGn8
 Genetic Pacman Simulation
 =========================
 
-This was from a [paper](http://blog.srvthe.net/wp-content/uploads/2012/02/pdf_paperfinal.pdf "paper") that I wrote as a term project for my intro AI class.
+This was from a [paper](https://blog.srvthe.net/wp-content/uploads/2012/02/pdf_paperfinal.pdf "paper") that I wrote as a term project for my intro AI class.
 
 The paper describes (overviews) how Genetic Algorithms work, and uses a Pacman simulation as a case study for how they can be used to for learning behaviors.
 

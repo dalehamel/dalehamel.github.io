@@ -8,7 +8,7 @@ tags: []
 Almost ready to release rasplex-0.1-a
 =====================================
 
-I have created a release list on trello, with the planned features for the [rasplex-0.1-a release](https://trello.com/c/1oMwUL5L). I have uploaded a new snapshot to overwrite the [existing unstable](http://rasplex.srvthe.net/rasplex-unstable.img.zip), so that folks can play around with the fixes that have been added. Notably:  
+I have created a release list on trello, with the planned features for the [rasplex-0.1-a release](https://trello.com/c/1oMwUL5L). I have uploaded a new snapshot to overwrite the [existing unstable](https://rasplex.srvthe.net/rasplex-unstable.img.zip), so that folks can play around with the fixes that have been added. Notably:  
 
 -   ~~Updates still broken in this version, but fixed for 0.1-a~~
 -   libCEC SHOULD work, but i need someone to test it for me

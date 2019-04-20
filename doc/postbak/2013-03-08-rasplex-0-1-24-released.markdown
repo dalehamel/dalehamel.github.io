@@ -13,7 +13,7 @@ This release has been a long time coming, and I have to say it's been pretty cra
 Some changes
 ============
 
-We are retiring the S3 mirror, and going all out SourceForge for financial reasons. Plex Inc has donated us some forum space, so feel free to check it out! [http://forums.plexapp.com/index.php/forum/126-rasplex/](http://forums.plexapp.com/index.php/forum/126-rasplex/)
+We are retiring the S3 mirror, and going all out SourceForge for financial reasons. Plex Inc has donated us some forum space, so feel free to check it out! [https://forums.plexapp.com/index.php/forum/126-rasplex/](https://forums.plexapp.com/index.php/forum/126-rasplex/)
 
 Pi Day Notes
 ============

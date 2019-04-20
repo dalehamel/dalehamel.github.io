@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 605
-wordpress_url: http://blog.srvthe.net/?p=605
+wordpress_url: https://blog.srvthe.net/?p=605
 date: 2013-02-24 02:09:06.000000000 -05:00
 categories:
 - Uncategorized
@@ -32,7 +32,7 @@ comments:
 ---
 <h1></h1>
 <h1>Available as bleeding edge build</h1>
-You can get it using the instructions at <a title="Get rasplex" href="http://blog.srvthe.net/get-rasplex">rasplex download page</a> for bleeding edge builds, until it is promoted to stable.
+You can get it using the instructions at <a title="Get rasplex" href="https://blog.srvthe.net/get-rasplex">rasplex download page</a> for bleeding edge builds, until it is promoted to stable.
 <h1>Lots of platform changes</h1>
 You can view the release plan on the <a href="https://trello.com/c/yX9P2ubL" title="trello card">trello card</a>
 
@@ -55,4 +55,4 @@ Since rasplex hasn't been receiving any donations lately, I've been forced to pu
 
 Just a reminder to everyone that I don't take any money donated to rasplex, it all gets reinvested in the project (along with the advertisement revenue).
 
-If you like the project, please donate at the <a title="donation" href="http://srvthe.net">donation page</a> to support future updates and features! These features and patches don't write themselves ;)
+If you like the project, please donate at the <a title="donation" href="https://srvthe.net">donation page</a> to support future updates and features! These features and patches don't write themselves ;)

@@ -12,7 +12,7 @@ tags: []
 Crazy busy!
 ===========
 
-As you may know, we are planning a beta release of RasPlex for Pi day, March 14th. I've been crazy busy setting this up, and making sure we are running on all cylinders for when this happens. Rasplex will have it's own domain at [rasplex.com](http://www.rasplex.com), and we'll actually have official documentation and what not there. We've had a lot of great work going on, and as you may know we have releases as high as 0.1.19 out, but these are debug releases. I recommend 0.1.17 as it is currently the most stable, and it is the one that I am using right now. It will likely be the main basis for the Beta candidate, as the 0.1.20 builds I've been running have issues resulting from a recent merge with OpenELEC that has broken playback.
+As you may know, we are planning a beta release of RasPlex for Pi day, March 14th. I've been crazy busy setting this up, and making sure we are running on all cylinders for when this happens. Rasplex will have it's own domain at [rasplex.com](https://www.rasplex.com), and we'll actually have official documentation and what not there. We've had a lot of great work going on, and as you may know we have releases as high as 0.1.19 out, but these are debug releases. I recommend 0.1.17 as it is currently the most stable, and it is the one that I am using right now. It will likely be the main basis for the Beta candidate, as the 0.1.20 builds I've been running have issues resulting from a recent merge with OpenELEC that has broken playback.
 
 Major improvements identified
 =============================
@@ -22,12 +22,12 @@ We have identified a severe network error that can cause rasplex to slow down th
 Vote for a logo!
 ================
 
-We are currently hosting a [logo competition](https://trello.com/board/rasplex-com/51332020cc5f0f487e00770b)! You can submit your own designs directly to me, or through the trello system if you are already a member (just ask me on the chat service and i'll invite you), or comment with a link on this post with your design. Just make sure any submissions don't violate the [trademark rules](http://www.raspberrypi.org/trademark-rules)
+We are currently hosting a [logo competition](https://trello.com/board/rasplex-com/51332020cc5f0f487e00770b)! You can submit your own designs directly to me, or through the trello system if you are already a member (just ask me on the chat service and i'll invite you), or comment with a link on this post with your design. Just make sure any submissions don't violate the [trademark rules](https://www.raspberrypi.org/trademark-rules)
 
 Sneak preview...
 ================
 
-We are cooking up a few ways to fund RasPlex. I would like to get preflashed SD cards, as well as the official RasPlex case into a few online vendors. The case in this picture is a prototype that a friend of mine and I designed and 3D printed together. [![](http://blog.srvthe.net/wp-content/uploads/2013/03/premiumrplex-300x218.jpg "premiumrplex")](http://blog.srvthe.net/wp-content/uploads/2013/03/premiumrplex.jpg) A few things to note:
+We are cooking up a few ways to fund RasPlex. I would like to get preflashed SD cards, as well as the official RasPlex case into a few online vendors. The case in this picture is a prototype that a friend of mine and I designed and 3D printed together. [![](https://blog.srvthe.net/wp-content/uploads/2013/03/premiumrplex-300x218.jpg "premiumrplex")](https://blog.srvthe.net/wp-content/uploads/2013/03/premiumrplex.jpg) A few things to note:
 
 -   I'm applying for a government grant to get the initial production run done (injection molding is expensive)
 -   I want to make the case as inexpensive as possible (ie, if it costs 10 to make, sell for 15). I want **everyone** to have this case, I don't care about gross margin.

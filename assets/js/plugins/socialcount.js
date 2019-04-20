@@ -332,7 +332,7 @@
 	};
 
 	$(function() {
-		// Thanks to http://codepen.io/ericmatthys/pen/FfcEL
+		// Thanks to https://codepen.io/ericmatthys/pen/FfcEL
 		$loadingIndicator = $('<div>')
 			.addClass('loading')
 			.html( SocialCount.isCssAnimations() ? new Array(4).join('<div class="dot"></div>') : 'Loading' );

@@ -10,7 +10,7 @@ Whoa man, check it out
 
 httpv://www.youtube.com/watch?v=pMGo7jFH-A8
 
-(click http://www.youtube.com/watch?v=pMGo7jFH-A8) This youtube video has gotten almost half a million views! Google already sent me a cheque for \$113.14 when I hit 300,000.
+(click https://www.youtube.com/watch?v=pMGo7jFH-A8) This youtube video has gotten almost half a million views! Google already sent me a cheque for \$113.14 when I hit 300,000.
 
 Lets make it to the half million mark!
 

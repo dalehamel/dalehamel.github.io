@@ -23,7 +23,7 @@ Enter Linux - the best of both worlds. Secure, customizable, and best of all, (f
 Posts
 =====
 
--   [Why I switched from Ubuntu to Arch, and why I'll never go back.](http://blog.srvthe.net/archives/105 "Why I switch from Ubuntu to Arch, and why I’ll never go back")
--   [Basic linux command line tutorial](http://blog.srvthe.net/archives/164 "Yet another Linux Command line guide.")
--   [DD-WRT: unleash your router!](http://blog.srvthe.net/archives/239 "DD-WRT: Unleash your router")
+-   [Why I switched from Ubuntu to Arch, and why I'll never go back.](https://blog.srvthe.net/archives/105 "Why I switch from Ubuntu to Arch, and why I’ll never go back")
+-   [Basic linux command line tutorial](https://blog.srvthe.net/archives/164 "Yet another Linux Command line guide.")
+-   [DD-WRT: unleash your router!](https://blog.srvthe.net/archives/239 "DD-WRT: Unleash your router")
 

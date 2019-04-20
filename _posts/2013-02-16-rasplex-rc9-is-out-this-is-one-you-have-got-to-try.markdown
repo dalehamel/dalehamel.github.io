@@ -37,4 +37,4 @@ We now have an [installer](https://raw.github.com/dalehamel/rasplex-installer/ma
 -   Automatic selection of fastest mirror (EU or US)
 -   Automatically gets the latest installer (only need to get one copy of installer, it updates itself)
 
-Find out more details at [the installer's github](https://github.com/dalehamel/rasplex-installer). Check out the[install page](http://blog.srvthe.net/get-rasplex "Get rasplex") to get started. Special thanks once again to Weelkin for getting the OpenELEC ball rolling (he's also currently working on Wifi config dialog! Go him!)
+Find out more details at [the installer's github](https://github.com/dalehamel/rasplex-installer). Check out the[install page](https://blog.srvthe.net/get-rasplex "Get rasplex") to get started. Special thanks once again to Weelkin for getting the OpenELEC ball rolling (he's also currently working on Wifi config dialog! Go him!)

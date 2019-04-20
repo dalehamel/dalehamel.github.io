@@ -12,6 +12,6 @@ tags: []
 
 So far, I have listed my interests as
 
--   [Linux](http://blog.srvthe.net/linux "Linux")
--   [Yoga](http://blog.srvthe.net/yoga "Yoga")
+-   [Linux](https://blog.srvthe.net/linux "Linux")
+-   [Yoga](https://blog.srvthe.net/yoga "Yoga")
 

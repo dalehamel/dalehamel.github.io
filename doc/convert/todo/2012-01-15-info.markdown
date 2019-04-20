@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 36
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?page_id=36
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?page_id=36
 date: 2012-01-15 22:46:32.000000000 -05:00
 categories: []
 tags: []
@@ -32,9 +32,9 @@ comments:
   date: '2013-03-29 05:11:07 -0400'
   date_gmt: '2013-03-29 05:11:07 -0400'
   content: |-
-    http://forums.plexapp.com/index.php/topic/63336-support-for-gpio-ir-receivers/
+    https://forums.plexapp.com/index.php/topic/63336-support-for-gpio-ir-receivers/
 
-    http://sourceforge.net/p/rasplex/wiki/GPIO-IR/
+    https://sourceforge.net/p/rasplex/wiki/GPIO-IR/
 
     This is all community stuff so far, I haven't had a chance to play with GPIO IR yet. I expect I will this weekend, so sit tight if the above doesn't help :)
 - id: 759
@@ -61,17 +61,17 @@ comments:
 - id: 1474
   author: Peter Andersen
   author_email: pa49667@gmail.com
-  author_url: http://www.singlecelldevelopment.com/
+  author_url: https://www.singlecelldevelopment.com/
   date: '2013-08-01 09:12:22 -0400'
   date_gmt: '2013-08-01 09:12:22 -0400'
   content: "Hi Dale,\r\n\r\nI know you are super busy. But if you have 5min to read
     my post on the rasplex forum regarding \"selecting players\" on IOS app and Android
     app that is not working well. I have added a 3rd Rasplex and i still only se 1
     rasplex host on the selectable list of players in the app and not all 3 (So i
-    can those which to control)\r\n\r\nHere is the post.\r\nhttp://forums.plexapp.com/index.php/topic/74010-plexpass-android-rasplex-players-multiple/\r\n\r\nBest
+    can those which to control)\r\n\r\nHere is the post.\r\nhttps://forums.plexapp.com/index.php/topic/74010-plexpass-android-rasplex-players-multiple/\r\n\r\nBest
     regards\r\nPeter - Denmark\r\nI work with network tech on HP and Cisco enterprise
     solutions.\r\nFeel free to join me on likedin on pa49667@gmail.com :)\r\n\r\nTip
-    to make i run wireless superbly. Buy this and it is cheap.\r\nhttp://dx.com/p/ep-n1528-mini-usb-300mbps-802-11b-g-n-wifi-wlan-wireless-network-adapter-black-123895\r\nI
+    to make i run wireless superbly. Buy this and it is cheap.\r\nhttps://dx.com/p/ep-n1528-mini-usb-300mbps-802-11b-g-n-wifi-wlan-wireless-network-adapter-black-123895\r\nI
     have done a lot of testing on my Pie's and have finally come to a really good
     setup with your rasplex with SDcards above class 10 UHS 1+. I've been using XBMC
     for 2 years now before turning to PLEX. Subtile feature in XBMC with chooseable
@@ -96,7 +96,7 @@ comments:
 
 <h2>What is my background?</h2>
 
-<p>I have worked for the  U of M's plant science department on a bio-informatics program called BIRCH, as a web developer for Research In Motion (RIM) working on Webkit, a robotics software developer at Cogmation Robotics, and I am currently employed full time by Invenia Technical Computing. You can find more details on my <a href="http://ca.linkedin.com/pub/dale-hamel/34/45b/6b9" title="linked in">linked in</a>.</p>
+<p>I have worked for the  U of M's plant science department on a bio-informatics program called BIRCH, as a web developer for Research In Motion (RIM) working on Webkit, a robotics software developer at Cogmation Robotics, and I am currently employed full time by Invenia Technical Computing. You can find more details on my <a href="https://ca.linkedin.com/pub/dale-hamel/34/45b/6b9" title="linked in">linked in</a>.</p>
 
 <h2>What is the point of this site?</h2>
 

@@ -8,7 +8,7 @@ tags: []
 Why learn about commits?
 ========================
 
-In case in happens (when it happens) that you or one of your collaborators fscks up a merge, rebase, and/or ( **breaks from whatever your establish workflow is**) (I recommend [this simple one](http://srvthe.net/blog/archives/86 "A simple git workflow for collaborating"), and [the 4 tier system](http://srvthe.net/blog/archives/138 "Git workflow with Redmine integration: the 4 tier system")).
+In case in happens (when it happens) that you or one of your collaborators fscks up a merge, rebase, and/or ( **breaks from whatever your establish workflow is**) (I recommend [this simple one](https://srvthe.net/blog/archives/86 "A simple git workflow for collaborating"), and [the 4 tier system](https://srvthe.net/blog/archives/138 "Git workflow with Redmine integration: the 4 tier system")).
 
 Just remember the commit golden rule: **Make a commit when you you are (or are about to be!) frustrated, or, if you think you may have made progress, or that something is wrong.**
 
@@ -38,7 +38,7 @@ Take a quick snapshot (no staging of new files) + git commit -a -m "My awesome f
 What is a commit?
 =================
 
-Commits make up your branches. This article complements my post on [git branch basics](http://prometheus.gotdns.com:88/wordpress/archives/150 "Git branch basics").
+Commits make up your branches. This article complements my post on [git branch basics](https://prometheus.gotdns.com:88/wordpress/archives/150 "Git branch basics").
 
 Conceptually
 ------------

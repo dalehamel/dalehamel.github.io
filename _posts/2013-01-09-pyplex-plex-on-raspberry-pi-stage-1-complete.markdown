@@ -23,7 +23,7 @@ It should also work on raspbian, but you will need to install the dependencies y
 How to build (Gentoo)
 =====================
 
--   Set up a distcc/crossdev environment (unless you are REALLY patient...) http://wiki.gentoo.org/wiki/Raspberry*Pi*Quick*Install*Guide\#Cross\_building
+-   Set up a distcc/crossdev environment (unless you are REALLY patient...) https://wiki.gentoo.org/wiki/Raspberry*Pi*Quick*Install*Guide\#Cross\_building
 -   Get the latest firmware for your RPi with https://github.com/Hexxeh/rpi-update
 -   Setup the config.txt file as described in the pyplex documentation
 -   Setup the PlexOverlay as described in the pyplex readme

@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 401
-wordpress_url: http://blog.srvthe.net/?p=401
+wordpress_url: https://blog.srvthe.net/?p=401
 date: 2013-01-19 22:17:48.000000000 -05:00
 categories:
 - Uncategorized
@@ -24,7 +24,7 @@ comments: []
 <h1>Interested in trying it yourself?</h1>
 <ul>
 <li>First you'll need an raspberry pi (duh). </li>
-<li>Set up an SD Card with Gentoo, and a build server with a cross compiler as described at http://wiki.gentoo.org/wiki/Raspberry_Pi_Quick_Install_Guide</li>
+<li>Set up an SD Card with Gentoo, and a build server with a cross compiler as described at https://wiki.gentoo.org/wiki/Raspberry_Pi_Quick_Install_Guide</li>
 <li>Grab a java8 preview of the jdk, and symlink the contents of the bin directory to /usr/local/bin (needed for building plexht, but no ebuild yet. Will make one soon for my overlay).</li>
 <li>Grab my overlay from above, and set PORTDIR_OVERLAY to be /usr/local/portage.</li>
 <li>Symlink everything from PlexOverlay into PORTDIR_OVERLAY</li>

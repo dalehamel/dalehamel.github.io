@@ -26,7 +26,7 @@ A typical day for me involves getting up, starting the coffee, going back to bed
 What is my background?
 ----------------------
 
-I have worked for the U of M's plant science department on a bio-informatics program called BIRCH, as a web developer for Research In Motion (RIM) working on Webkit, a robotics software developer at Cogmation Robotics, and I am currently employed full time by Invenia Technical Computing. You can find more details on my [linked in](http://ca.linkedin.com/pub/dale-hamel/34/45b/6b9 "linked in").
+I have worked for the U of M's plant science department on a bio-informatics program called BIRCH, as a web developer for Research In Motion (RIM) working on Webkit, a robotics software developer at Cogmation Robotics, and I am currently employed full time by Invenia Technical Computing. You can find more details on my [linked in](https://ca.linkedin.com/pub/dale-hamel/34/45b/6b9 "linked in").
 
 What is the point of this site?
 -------------------------------

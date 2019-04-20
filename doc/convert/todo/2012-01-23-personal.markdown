@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 69
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?page_id=69
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?page_id=69
 date: 2012-01-23 08:32:01.000000000 -05:00
 categories: []
 tags: []
@@ -15,11 +15,11 @@ comments:
 - id: 518
   author: Jonathan Proctor
   author_email: contact@squirrelhosting.co.uk
-  author_url: http://www.squirrelhosting.co.uk
+  author_url: https://www.squirrelhosting.co.uk
   date: '2013-03-17 12:28:13 -0400'
   date_gmt: '2013-03-17 12:28:13 -0400'
   content: "Hello, I'm contacting you from SquirrelHosting.co.uk. We have created
-    a guide which should help windows users install Rasplex. (http://squirrelhosting.co.uk/hosting-blog/hosting-blog-info.php?id=36
+    a guide which should help windows users install Rasplex. (https://squirrelhosting.co.uk/hosting-blog/hosting-blog-info.php?id=36
     ) This should help lower the amount of confused windows users trying to use the
     openelec guide.\r\n\r\nKind Regards\r\nJonathan Proctor\r\np.s. I Look forward
     to playing with Rasplex on my own Pi."
@@ -29,6 +29,6 @@ comments:
 <p>So far, these are the personal posts that I've made</p>
 
 <ul>
-<li><a href="http://blog.srvthe.net/archives/10" title="Getting things rolling">Getting things rolling</a></li>
-<li><a href="http://blog.srvthe.net/archives/71" title="Living alone">Living Alone</a></li>
+<li><a href="https://blog.srvthe.net/archives/10" title="Getting things rolling">Getting things rolling</a></li>
+<li><a href="https://blog.srvthe.net/archives/71" title="Living alone">Living Alone</a></li>
 </ul>

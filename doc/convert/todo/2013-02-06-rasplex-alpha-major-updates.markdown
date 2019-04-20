@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 490
-wordpress_url: http://blog.srvthe.net/?p=490
+wordpress_url: https://blog.srvthe.net/?p=490
 date: 2013-02-06 08:06:36.000000000 -05:00
 categories:
 - Uncategorized
@@ -25,7 +25,7 @@ It's hard to believe that just a week ago the GUI was thrashing all over the pla
 We now have an alpha that I consider to be fairly useable. There are still some major bugs remaining, particularly the prefere
 nces panel is completely unuseable.
 
-If you'd like to try it out, I updated the <a href="http://blog.srvthe.net/archives/474"> quick install blog post </a>.
+If you'd like to try it out, I updated the <a href="https://blog.srvthe.net/archives/474"> quick install blog post </a>.
 <h1>Added features</h1>
 <ul>
 	<li>SSH user by default (user:pass is plexuser:rasplex)</li>

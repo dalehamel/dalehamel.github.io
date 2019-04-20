@@ -13,5 +13,5 @@ Anyways, enjoy!
 Posts
 =====
 
--   [My awesome fractal video](http://srvthe.net/blog/archives/321 "Almost half a million views!")
+-   [My awesome fractal video](https://srvthe.net/blog/archives/321 "Almost half a million views!")
 

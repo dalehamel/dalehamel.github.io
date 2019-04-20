@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 514
-wordpress_url: http://blog.srvthe.net/?p=514
+wordpress_url: https://blog.srvthe.net/?p=514
 date: 2013-02-08 07:05:54.000000000 -05:00
 categories:
 - Uncategorized
@@ -17,7 +17,7 @@ comments: []
 <h1>Almost ready to release rasplex-0.1-a</h1>
 I have created a release list on trello, with the planned features for the <a href="https://trello.com/c/1oMwUL5L">rasplex-0.1-a release</a>.
 
-I have uploaded a new snapshot to overwrite the <a href="http://rasplex.srvthe.net/rasplex-unstable.img.zip">existing unstable</a>, so that folks can play around with the fixes that have been added.
+I have uploaded a new snapshot to overwrite the <a href="https://rasplex.srvthe.net/rasplex-unstable.img.zip">existing unstable</a>, so that folks can play around with the fixes that have been added.
 
 Notably:
 

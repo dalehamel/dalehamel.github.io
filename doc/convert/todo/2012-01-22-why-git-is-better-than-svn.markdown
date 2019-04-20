@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 54
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?p=54
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?p=54
 date: 2012-01-22 08:38:49.000000000 -05:00
 categories:
 - FOSS
@@ -22,7 +22,7 @@ comments:
 - id: 4
   author: Implement svn | Premiervirtual
   author_email: ''
-  author_url: http://premiervirtual.shikshik.org/2012/02/02/implement-svn/
+  author_url: https://premiervirtual.shikshik.org/2012/02/02/implement-svn/
   date: '2012-02-02 01:20:45 -0500'
   date_gmt: '2012-02-02 01:20:45 -0500'
   content: "[...] Why Git is better than SVN | Dale&#039;s Tech and Etc blog [...]"
@@ -43,4 +43,4 @@ comments:
 
 <p>Some people will claim that the option to "lock" a file is a feature, which is something that Git, or any DVCS, will ever be able to implement. This is ludicrous. When you start locking files, you run into the same scheduling problems that cause gridlock and deadlock. Developers are constantly contending for exclusive access to files, and it is more of a band-aid than a solution to one underlying problem - that two people can never be able to work on the exact same thing at the exact same time. Git solves this problem with merging. and provides everyone with full, unrestricted access to the entire repository at any given time.</p>
 
-<p>So, if you are frustrated with the capabilities (or lack thereof) of your VCS to branch, merge, and track your working tree, you should switch to git. If I've at all convinced you with my Git rant, then I implore you to check out <a href="http://progit.org" title="progit">progit</a>and my own project, <a href="https://github.com/daleha/git-kit" title="git-kit">git-kit</a>.</p>
+<p>So, if you are frustrated with the capabilities (or lack thereof) of your VCS to branch, merge, and track your working tree, you should switch to git. If I've at all convinced you with my Git rant, then I implore you to check out <a href="https://progit.org" title="progit">progit</a>and my own project, <a href="https://github.com/daleha/git-kit" title="git-kit">git-kit</a>.</p>

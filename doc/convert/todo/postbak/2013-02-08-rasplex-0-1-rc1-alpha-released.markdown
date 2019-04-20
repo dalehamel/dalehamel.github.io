@@ -8,7 +8,7 @@ tags: []
 Good news everyone!
 ===================
 
-(the above must be read with a professor Farnsworth voice), ala httpv://www.youtube.com/watch?v=HHfOejlvVsY Rasplex 0.1-rc1 alpha is ready for use, get it [here](http://rasplex.srvthe.net/rasplex-stable.img.zip). I consider this to be the best build yet, hands down. Here is the [feature card for the release](https://trello.com/c/1oMwUL5L), but here's a summary of what's been added
+(the above must be read with a professor Farnsworth voice), ala httpv://www.youtube.com/watch?v=HHfOejlvVsY Rasplex 0.1-rc1 alpha is ready for use, get it [here](https://rasplex.srvthe.net/rasplex-stable.img.zip). I consider this to be the best build yet, hands down. Here is the [feature card for the release](https://trello.com/c/1oMwUL5L), but here's a summary of what's been added
 
 -   Clean OpenGL drawing (note, if you leave it running over night, it'll cache all of the images, making it run much faster)
 -   Updating plexht now works again via emerge -avG plexht
@@ -34,7 +34,7 @@ Aside from obvious fixes and feature requests (still want to speed up the GUI so
 Thanks again to everyone who has donated, and volunteered their time
 ====================================================================
 
-I am keeping the donation money in the paypal account until we at least have a good beta release, then I plan on dividing it up amongst the top contributing developers (tempted as I may be to hoard it all to myself, I think it's a great incentive to get people to help ;) Speaking of donations, you can donate at the [main srvthe.net portal](http://srvthe.net), or by scrolling to the bottom of this page. I want to particularly call out a few stars here...
+I am keeping the donation money in the paypal account until we at least have a good beta release, then I plan on dividing it up amongst the top contributing developers (tempted as I may be to hoard it all to myself, I think it's a great incentive to get people to help ;) Speaking of donations, you can donate at the [main srvthe.net portal](https://srvthe.net), or by scrolling to the bottom of this page. I want to particularly call out a few stars here...
 
 -   Tobias H. for making and maintaining PlexHT
 -   LongChair, for being willing to test broken, terrible builds and put up with my constant "it'll be in the next build"
@@ -43,4 +43,4 @@ I am keeping the donation money in the paypal account until we at least have a g
 -   Curtis Vogt (Omus) for airplay support
 -   Everyone else in IRC, plex chat, and on the forums!
 
-  Did I mention you can [donate to support this project?](http://srvthe.net) \</shamelessdonationtrolling\>
+  Did I mention you can [donate to support this project?](https://srvthe.net) \</shamelessdonationtrolling\>

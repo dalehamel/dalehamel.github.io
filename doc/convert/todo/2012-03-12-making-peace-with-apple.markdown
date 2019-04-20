@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 290
-wordpress_url: http://srvthe.net/blog/?p=290
+wordpress_url: https://srvthe.net/blog/?p=290
 date: 2012-03-12 04:51:32.000000000 -04:00
 categories:
 - FOSS
@@ -25,7 +25,7 @@ comments:
 - id: 21
   author: Dale Hamel on Facebook
   author_email: 660396301@facebook.com
-  author_url: http://www.facebook.com/profile.php?id=660396301
+  author_url: https://www.facebook.com/profile.php?id=660396301
   date: '2012-03-12 05:02:27 -0400'
   date_gmt: '2012-03-12 05:02:27 -0400'
   content: The old post was broken, using a new vim wordpress plugin and apparently

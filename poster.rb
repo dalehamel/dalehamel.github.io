@@ -11,7 +11,7 @@ $creds = $config['tinycc']
 
 def minify( post_url, slug )
   post_uri = URI.escape(post_url)
-  url = "http://tiny.cc/?c=rest_api&m=shorten&version=2.0.3&format=json&shortUrl=#{slug}&longUrl=#{post_uri}&login=#{$creds['user']}&apiKey=#{$creds['key']}"
+  url = "https://tiny.cc/?c=rest_api&m=shorten&version=2.0.3&format=json&shortUrl=#{slug}&longUrl=#{post_uri}&login=#{$creds['user']}&apiKey=#{$creds['key']}"
   response = HTTParty.get(url)
   mini =  JSON.parse(response.body)['results']['short_url']
   return mini
@@ -20,7 +20,7 @@ end
 
 def publish( slug, path )
   rest_component = path.gsub("_posts/","").gsub(".markdown","").gsub("/","").split("-")[3..-1].join("-")
-  post_url = "http://blog.srvthe.net/#{rest_component}/"
+  post_url = "https://blog.srvthe.net/#{rest_component}/"
   mini_url = minify(post_url,slug)
 
   puts `t update "Check out my new blog post! #{mini_url}"`

@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 395
-wordpress_url: http://blog.srvthe.net/?p=395
+wordpress_url: https://blog.srvthe.net/?p=395
 date: 2013-01-09 01:42:02.000000000 -05:00
 categories:
 - Uncategorized
@@ -63,7 +63,7 @@ comments:
 <h1>How to build (Gentoo)</h1>
 
 <ul>
-<li>Set up a distcc/crossdev environment (unless you are REALLY patient...) http://wiki.gentoo.org/wiki/Raspberry<em>Pi</em>Quick<em>Install</em>Guide#Cross_building</li>
+<li>Set up a distcc/crossdev environment (unless you are REALLY patient...) https://wiki.gentoo.org/wiki/Raspberry<em>Pi</em>Quick<em>Install</em>Guide#Cross_building</li>
 <li>Get the latest firmware for your RPi with https://github.com/Hexxeh/rpi-update</li>
 <li>Setup the config.txt file as described in the pyplex documentation</li>
 <li>Setup the PlexOverlay as described in the pyplex readme</li>

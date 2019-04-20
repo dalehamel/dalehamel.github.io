@@ -13,7 +13,7 @@ tags: []
 tl;dr
 =====
 
-RasPlex was born from my love for XBMC, and wouldn't have been possible without the [OpenELEC](http://openelec.tv/), [Xbian](http://xbian.org/), and [Raspbmc](http://www.raspbmc.com/) projects. I call for us all to work together, share our work, and improve one another to provide the best possible UX, and provide stronger platforms than we would separately, reinventing each other's work. If you agree, please take to twitter, tweeting the @SamNazarko, @Koenkk, @raspbmc, and @OpenELEC with \#htpcunite.
+RasPlex was born from my love for XBMC, and wouldn't have been possible without the [OpenELEC](https://openelec.tv/), [Xbian](https://xbian.org/), and [Raspbmc](https://www.raspbmc.com/) projects. I call for us all to work together, share our work, and improve one another to provide the best possible UX, and provide stronger platforms than we would separately, reinventing each other's work. If you agree, please take to twitter, tweeting the @SamNazarko, @Koenkk, @raspbmc, and @OpenELEC with \#htpcunite.
 
 It all began
 ============
@@ -41,7 +41,7 @@ I discovered that XBMC was running on the Rasbperry Pi, and had to get one. It b
 But it wasn't good enough
 =========================
 
-I tried [Rampbmc](http://www.raspbmc.com/), which is a great project and makes XBMC remarkably accessible on the Raspberry Pi thanks to the works of Sam Nazarko. As a platform for XBMC, I loved it. But I missed the Plex features that I loved so much.
+I tried [Rampbmc](https://www.raspbmc.com/), which is a great project and makes XBMC remarkably accessible on the Raspberry Pi thanks to the works of Sam Nazarko. As a platform for XBMC, I loved it. But I missed the Plex features that I loved so much.
 
 So the work on RasPlex began
 ============================
@@ -56,7 +56,7 @@ I had already been using plex-linux for a while on my gentoo setup, and was fami
 But there were major issues
 ---------------------------
 
-I eventually compiled an executable that didn't run, just segfaulted. I investigated, and discovered that it was because the magic that makes [Raspbmc](http://www.raspbmc.com/), [OpenELEC](http://openelec.tv/), and [XBian](http://xbian.org/) work was missing - I wasn't properly linking the VideoCore stuff, and was missing ALL of the RPi XBMC patches.
+I eventually compiled an executable that didn't run, just segfaulted. I investigated, and discovered that it was because the magic that makes [Raspbmc](https://www.raspbmc.com/), [OpenELEC](https://openelec.tv/), and [XBian](https://xbian.org/) work was missing - I wasn't properly linking the VideoCore stuff, and was missing ALL of the RPi XBMC patches.
 
 All that work for nothing!
 ==========================
@@ -91,12 +91,12 @@ I started the chatroom, and LongChair showed up (first person - there from the s
 Gentoo port dies
 ================
 
-Weelkin successfully convinced me, much to my chagrin, to abandon the gentoo port and go all out [OpenELEC](http://openelec.tv/). He was right. We got so much for free, and our builds that used to take 2 hours were down to 5 minutes. Rapid development was finally enabled.
+Weelkin successfully convinced me, much to my chagrin, to abandon the gentoo port and go all out [OpenELEC](https://openelec.tv/). He was right. We got so much for free, and our builds that used to take 2 hours were down to 5 minutes. Rapid development was finally enabled.
 
 OpenELEC growing pains
 ======================
 
-The first really stable [OpenELEC](http://openelec.tv/) was 0.1.17, which was a landmark build, including Wifi and autoupdate. We pushed through it, and did some more merges and sped things up a bit.
+The first really stable [OpenELEC](https://openelec.tv/) was 0.1.17, which was a landmark build, including Wifi and autoupdate. We pushed through it, and did some more merges and sped things up a bit.
 
 RasPlex.com launches
 ====================
@@ -124,12 +124,12 @@ RasPlex plans to deliver on it's code of ethics:
 -   Everything must be FOSS.
 -   Collaboration with other HTPC projects over competition.
 
-We are focused on collaborating with the existing HTPC projects, [Xbian](http://xbian.org/), [OpenELEC](http://openelec.tv/), and [Raspbmc](http://www.raspbmc.com/). We have offered our GUI installer to each of them, and hope that their users can benefit from it as much as ours do, so that we can work together to improve it. Users first. There have been some ego issues with these XBMC projects, and we want to put all of that in the past. We work better together than we do in competition. While competition is healthy and necessary, the goal should be to share our work, rather than reinvent the wheel over and over.
+We are focused on collaborating with the existing HTPC projects, [Xbian](https://xbian.org/), [OpenELEC](https://openelec.tv/), and [Raspbmc](https://www.raspbmc.com/). We have offered our GUI installer to each of them, and hope that their users can benefit from it as much as ours do, so that we can work together to improve it. Users first. There have been some ego issues with these XBMC projects, and we want to put all of that in the past. We work better together than we do in competition. While competition is healthy and necessary, the goal should be to share our work, rather than reinvent the wheel over and over.
 
 HTPC Unite
 ==========
 
-I call to all developers of XBMC for Raspberry pi, be you core devs, or devs for [OpenELEC](http://openelec.tv/), [Raspbmc](http://www.raspbmc.com/), or [XBian](http://xbian.org/) to join us! This is the true spirit of Open source. Together, we can destroy proprietary platforms like AppleTV and Roku. Divided, we are just rogue hobbyists projects reinventing each others works. RasPlex has benefited from all of these projects, and is happy to give back in any way it can. We will be releasing [Raspbian](http://openelec.tv/) ports soon, and plan to borrow on the work of [Raspbmc](http://www.raspbmc.com/) and [XBian](http://xbian.org/). All of our work will be publicly available, and we hope that we are able to improve these projects as much as [OpenELEC](http://openelec.tv/) has improved us.
+I call to all developers of XBMC for Raspberry pi, be you core devs, or devs for [OpenELEC](https://openelec.tv/), [Raspbmc](https://www.raspbmc.com/), or [XBian](https://xbian.org/) to join us! This is the true spirit of Open source. Together, we can destroy proprietary platforms like AppleTV and Roku. Divided, we are just rogue hobbyists projects reinventing each others works. RasPlex has benefited from all of these projects, and is happy to give back in any way it can. We will be releasing [Raspbian](https://openelec.tv/) ports soon, and plan to borrow on the work of [Raspbmc](https://www.raspbmc.com/) and [XBian](https://xbian.org/). All of our work will be publicly available, and we hope that we are able to improve these projects as much as [OpenELEC](https://openelec.tv/) has improved us.
 
 Take frodo to the users
 =======================

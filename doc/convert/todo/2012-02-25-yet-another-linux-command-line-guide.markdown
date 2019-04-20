@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 164
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?p=164
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?p=164
 date: 2012-02-25 05:56:55.000000000 -05:00
 categories:
 - FOSS
@@ -87,7 +87,7 @@ comments:
 
 <p>The wget command is useful for downloading files from websites. <strong>wget is not a standard Unix command</strong>, but most linux distributions include it as it is extremely useful.</p>
 
-<p>[crayon lang="sh"] wget http://somewebsite/somefile.zip [/crayon]</p>
+<p>[crayon lang="sh"] wget https://somewebsite/somefile.zip [/crayon]</p>
 
 <h3>cat</h3>
 

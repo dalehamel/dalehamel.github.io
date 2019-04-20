@@ -61,7 +61,7 @@ The rm command is used to delete files and directories. Warning: it cannot be un
 
 The wget command is useful for downloading files from websites. **wget is not a standard Unix command**, but most linux distributions include it as it is extremely useful.
 
-[crayon lang="sh"] wget http://somewebsite/somefile.zip [/crayon]
+[crayon lang="sh"] wget https://somewebsite/somefile.zip [/crayon]
 
 ### cat
 

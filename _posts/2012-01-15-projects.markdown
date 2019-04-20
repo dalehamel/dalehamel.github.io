@@ -9,9 +9,9 @@ tags: []
 ---
 
 
-You can view the source/text for these projects at [gitweb](http://git.srvthe.net "gitweb"), I also have my open-source projects for work/school hosted [on my github](https://github.com/dalehamel "on my github")
+You can view the source/text for these projects at [gitweb](https://git.srvthe.net "gitweb"), I also have my open-source projects for work/school hosted [on my github](https://github.com/dalehamel "on my github")
 
-I also have [videos](http://blog.srvthe.net/videos "Videos") for some of my projects.
+I also have [videos](https://blog.srvthe.net/videos "Videos") for some of my projects.
 
 Tinkering
 =========
@@ -19,7 +19,7 @@ Tinkering
 Plex on RPi - rasplex
 ---------------------
 
-I have been fooling around with the Raspberry pi a lot lately, I am trying to get Plex Media Center running on it, as it would be the ideal frontend, and it has been shown to have the hardware capacity to run it as demonstrated by the Xbmc ports to it. I was recently able to get PlexHT building on RPi, and am organizing an optimization and distribution effort on [this trello board](https://trello.com/board/plex-on-raspberry-pi/510c4d34e1d17df66c00092a) [![](http://blog.srvthe.net/wp-content/uploads/2013/02/551437_10151245340766302_633863261_n-225x300.jpg "551437_10151245340766302_633863261_n")](http://blog.srvthe.net/?attachment_id=600) Here's the pre-beta running on my test machine
+I have been fooling around with the Raspberry pi a lot lately, I am trying to get Plex Media Center running on it, as it would be the ideal frontend, and it has been shown to have the hardware capacity to run it as demonstrated by the Xbmc ports to it. I was recently able to get PlexHT building on RPi, and am organizing an optimization and distribution effort on [this trello board](https://trello.com/board/plex-on-raspberry-pi/510c4d34e1d17df66c00092a) [![](https://blog.srvthe.net/wp-content/uploads/2013/02/551437_10151245340766302_633863261_n-225x300.jpg "551437_10151245340766302_633863261_n")](https://blog.srvthe.net/?attachment_id=600) Here's the pre-beta running on my test machine
 
 Raspberry pi plex playback - pyplex
 -----------------------------------
@@ -29,7 +29,7 @@ So far I have had some success with [A Python OMXPlayer wrapper](https://github.
 Contract work
 =============
 
-I developed the initial draft for the [World Center for Creative Communications (WCCE)](http://wcceglobal.org "World Center for Creative Communications (WCCE)") website. It was done in web2py, using bootstrap for CSS, jQuery for javascript, and hosted on AWS.
+I developed the initial draft for the [World Center for Creative Communications (WCCE)](https://wcceglobal.org "World Center for Creative Communications (WCCE)") website. It was done in web2py, using bootstrap for CSS, jQuery for javascript, and hosted on AWS.
 
 School projects
 ===============
@@ -37,12 +37,12 @@ School projects
 Software engineering
 --------------------
 
--   You can view my 3rd year software development class group project (from summer 2010) [here](http://git.srvthe.net/?p=mp3350.git;a=summary "here")
+-   You can view my 3rd year software development class group project (from summer 2010) [here](https://git.srvthe.net/?p=mp3350.git;a=summary "here")
 
 AI and robotics
 ---------------
 
--   [This is a paper](http://git.srvthe.net/?p=geneticalg.git;a=summary "this is a paper") that I wrote for the first year AI class on genetic algorithms, as well as the working example using a python-based pacman simulation.
+-   [This is a paper](https://git.srvthe.net/?p=geneticalg.git;a=summary "this is a paper") that I wrote for the first year AI class on genetic algorithms, as well as the working example using a python-based pacman simulation.
 
 Work projects
 =============
@@ -57,7 +57,7 @@ Cogmation Robotics
 
 I can't say much about what I do at Cogmation as I'm NDA'd. I work on robotic simulation software, specifically, developing everything from low-level communication drivers for specific robots, to higher level behaviors intended to be generic to any type of robot with a given set of sensors and actuators.
 
-What I can tell you is that i wrote the low level serial interface for the [pcbot 914](http://www.whiteboxrobotics.com/ "pcbot")
+What I can tell you is that i wrote the low level serial interface for the [pcbot 914](https://www.whiteboxrobotics.com/ "pcbot")
 
 Personal
 ========

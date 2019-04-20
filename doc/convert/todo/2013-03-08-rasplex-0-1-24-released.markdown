@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 630
-wordpress_url: http://blog.srvthe.net/?p=630
+wordpress_url: https://blog.srvthe.net/?p=630
 date: 2013-03-08 14:56:37.000000000 -05:00
 categories:
 - Uncategorized
@@ -27,7 +27,7 @@ We are retiring the S3 mirror, and going all out SourceForge for financial reaso
 
 Plex Inc has donated us some forum space, so feel free to check it out!
 
-<a href="http://forums.plexapp.com/index.php/forum/126-rasplex/">http://forums.plexapp.com/index.php/forum/126-rasplex/</a>
+<a href="https://forums.plexapp.com/index.php/forum/126-rasplex/">https://forums.plexapp.com/index.php/forum/126-rasplex/</a>
 <h1>Pi Day Notes</h1>
 I'm going to be spending much of my remaining time making sure the website is up-to-snuff, and hopefully setting up PayPal preorders for the case for anyone who is already really interested. We'll have at least some 3D Cad screenshots.
 

@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 409
-wordpress_url: http://blog.srvthe.net/?p=409
+wordpress_url: https://blog.srvthe.net/?p=409
 date: 2013-02-01 21:32:00.000000000 -05:00
 categories:
 - Uncategorized
@@ -16,7 +16,7 @@ comments:
 - id: 294
   author: lucapost
   author_email: luca.postregna@gmail.com
-  author_url: http://luca.postregna.name
+  author_url: https://luca.postregna.name
   date: '2013-03-02 20:36:46 -0500'
   date_gmt: '2013-03-02 20:36:46 -0500'
   content: Hi, do you have PORTAGE_BINHOST server mirror for my raspberry pi armv6j
@@ -35,7 +35,7 @@ You can join the plex channel on chat.srvthe.net, or #plex on irc.srvthe.net (sa
 
 <h1>Setting up a build environment</h1>
 
-NOTE: If you want to get the pi flashed is quickly as possible, use the <a href="http://blog.srvthe.net/archives/474">easy instructions</a> and you'll at least have a working system. 
+NOTE: If you want to get the pi flashed is quickly as possible, use the <a href="https://blog.srvthe.net/archives/474">easy instructions</a> and you'll at least have a working system. 
 
 NOTE: You MUST use the stage3 that <a href="https://s3.amazonaws.com/plex-rpi/rpi-base-stage3.tar.bz2" title="stage3">that I provide</a> intsead of the gentoo ones. The recent ones have broken SSHD as per <a href="https://bugs.gentoo.org/show_bug.cgi?id=450330" title="this bug">this bug</a>
 
@@ -52,7 +52,7 @@ On overview of this is:
 </ul>
 <div>The following are optional, but useful to speed things up:</div>
 <ul>
-	<li>Setup a binhost pointing to <a href="http://s3.amazonaws.com/plex-rpi/">http://s3.amazonaws.com/plex-rpi/</a></li>
+	<li>Setup a binhost pointing to <a href="https://s3.amazonaws.com/plex-rpi/">https://s3.amazonaws.com/plex-rpi/</a></li>
 	<li>On your host system, setup an arm distcc crossdev
 <ul>
 	<li>Inside the chroot, setup distcc pointing to your host system</li>
@@ -62,7 +62,7 @@ On overview of this is:
 <h1>Gentoo specific instructions</h1>
 Sorry, there are no ubuntu instructions or instructions for any other distro. For the most part, just replace emerge with apt-get or yum though. You might have to do a bit of research here. If you get something working, please add a comment on how you did it, and i'll update this guide.
 
-Do "Running qemu user on chroot" <a href="http://wiki.gentoo.org/wiki/Cross_Container_Support_Project#Running_Qemu-user_on_Chroot">http://wiki.gentoo.org/wiki/Cross_Container_Support_Project#Running_Qemu-user_on_Chroot</a>, using <a href="https://s3.amazonaws.com/plex-rpi/rpi-base-stage3.tar.bz2">my stage3</a> as the stage3. The exact steps are provided below.
+Do "Running qemu user on chroot" <a href="https://wiki.gentoo.org/wiki/Cross_Container_Support_Project#Running_Qemu-user_on_Chroot">https://wiki.gentoo.org/wiki/Cross_Container_Support_Project#Running_Qemu-user_on_Chroot</a>, using <a href="https://s3.amazonaws.com/plex-rpi/rpi-base-stage3.tar.bz2">my stage3</a> as the stage3. The exact steps are provided below.
 
 Note that the step that says "ROOT=$PWD/ emerge -K qemu-user" won't work. Instead, just copy /usr/bin/qemu-user* into the chroot's usr/bin
 
@@ -146,7 +146,7 @@ The qemu chroot uses an emulated GCC which is quite slow (comparable to the spee
 
 &nbsp;
 
-Follow the setup from <a href="http://wiki.gentoo.org/wiki/Raspberry_Pi_Quick_Install_Guide#Cross_building">http://wiki.gentoo.org/wiki/Raspberry_Pi_Quick_Install_Guide#Cross_building</a>, treating your chroot as the raspberry pi.
+Follow the setup from <a href="https://wiki.gentoo.org/wiki/Raspberry_Pi_Quick_Install_Guide#Cross_building">https://wiki.gentoo.org/wiki/Raspberry_Pi_Quick_Install_Guide#Cross_building</a>, treating your chroot as the raspberry pi.
 
 Do the following steps on your HOST machine (outside of the chroot):
 
@@ -154,7 +154,7 @@ Do the following steps on your HOST machine (outside of the chroot):
 
 [crayon lang="sh"]
 
-#Use the script at http://wiki.gentoo.org/wiki/Raspberry_Pi_Quick_Install_Guide#crossdev to convert your portage files into folders
+#Use the script at https://wiki.gentoo.org/wiki/Raspberry_Pi_Quick_Install_Guide#crossdev to convert your portage files into folders
 emerge -av crossdev distcc
 
 # You must set /etc/conf.d/distccd so that DISTCCD_OPTS="${DISTCCD_OPTS} --allow 192.168.1.0/24" is correct for your subnet

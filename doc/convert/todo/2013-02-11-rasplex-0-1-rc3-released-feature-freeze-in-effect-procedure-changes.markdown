@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 540
-wordpress_url: http://blog.srvthe.net/?p=540
+wordpress_url: https://blog.srvthe.net/?p=540
 date: 2013-02-11 05:42:26.000000000 -05:00
 categories:
 - Uncategorized
@@ -50,9 +50,9 @@ From now on, the focus will be on being able to update without reflashing. I hav
 
 I want to quell the rumors that there are "secret builds" or "invite only builds". There are only two types of builds: stable and unstable, which are effectively pointers to specific versions of rasplex.
 
-Stable builds can always be found at <a href="http://rasplex.srvthe.net/rasplex-unstable.img.zip">http://rasplex.srvthe.net/rasplex-stable.img.zip</a> (currently this is rc1). The ideal with stable builds is that the should be a mostly releasable project.
+Stable builds can always be found at <a href="https://rasplex.srvthe.net/rasplex-unstable.img.zip">https://rasplex.srvthe.net/rasplex-stable.img.zip</a> (currently this is rc1). The ideal with stable builds is that the should be a mostly releasable project.
 
-Unstable builds can always be found at <a href="http://rasplex.srvthe.net/rasplex-unstable.img.zip">http://rasplex.srvthe.net/rasplex-unstable.img.zip</a> (which is what is currently rc3) Unstable builds are for the adventurous folks who want to help improve rasplex be working off of the bleeding edge builds.
+Unstable builds can always be found at <a href="https://rasplex.srvthe.net/rasplex-unstable.img.zip">https://rasplex.srvthe.net/rasplex-unstable.img.zip</a> (which is what is currently rc3) Unstable builds are for the adventurous folks who want to help improve rasplex be working off of the bleeding edge builds.
 
 You can expect unstable builds to be updated almost daily, but we will only update stable when we are really pleased with the quality.
 

@@ -6,7 +6,7 @@ tags: []
 ---
 
 
-For a while, I was known pretty well exclusively as "that ubuntu geek". I would make my facebook pictures the most recent [ubuntu animal](http://en.wikipedia.org/wiki/List_of_Ubuntu_releases#Naming_convention "ubuntu animal"), and whenever someone would ask me for computer help... I'd install Ubuntu along side their Windows (for the next time that their winblows inevitably broke down).
+For a while, I was known pretty well exclusively as "that ubuntu geek". I would make my facebook pictures the most recent [ubuntu animal](https://en.wikipedia.org/wiki/List_of_Ubuntu_releases#Naming_convention "ubuntu animal"), and whenever someone would ask me for computer help... I'd install Ubuntu along side their Windows (for the next time that their winblows inevitably broke down).
 
 And things were great, for a while. I liked Ubuntu, and Ubuntu seemed to like me.
 

@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 326
-wordpress_url: http://srvthe.net/blog/?p=326
+wordpress_url: https://srvthe.net/blog/?p=326
 date: 2012-03-17 08:59:42.000000000 -04:00
 categories:
 - "/dev/urandom"

@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 138
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?p=138
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?p=138
 date: 2012-02-03 03:50:47.000000000 -05:00
 categories:
 - FOSS
@@ -24,7 +24,7 @@ comments:
 - id: 6
   author: Eric Davies on Facebook
   author_email: 778980581@facebook.com
-  author_url: http://www.facebook.com/profile.php?id=778980581
+  author_url: https://www.facebook.com/profile.php?id=778980581
   date: '2012-02-03 04:34:13 -0500'
   date_gmt: '2012-02-03 04:34:13 -0500'
   content: That's actually fairly helpful, although rebase still feels wrong to me
@@ -33,7 +33,7 @@ comments:
 - id: 7
   author: Dale Hamel on Facebook
   author_email: 660396301@facebook.com
-  author_url: http://www.facebook.com/profile.php?id=660396301
+  author_url: https://www.facebook.com/profile.php?id=660396301
   date: '2012-02-03 04:43:30 -0500'
   date_gmt: '2012-02-03 04:43:30 -0500'
   content: How do you mean w.r.t. ridiculous except for content (i'd say the whole
@@ -42,14 +42,14 @@ comments:
 - id: 8
   author: Eric Davies on Facebook
   author_email: 778980581@facebook.com
-  author_url: http://www.facebook.com/profile.php?id=778980581
+  author_url: https://www.facebook.com/profile.php?id=778980581
   date: '2012-02-03 04:45:38 -0500'
   date_gmt: '2012-02-03 04:45:38 -0500'
   content: The ridiculous logo and the wordpressiness of it all :P
 - id: 9
   author: Dale Hamel on Facebook
   author_email: 660396301@facebook.com
-  author_url: http://www.facebook.com/profile.php?id=660396301
+  author_url: https://www.facebook.com/profile.php?id=660396301
   date: '2012-02-03 04:47:08 -0500'
   date_gmt: '2012-02-03 04:47:08 -0500'
   content: The logo is lovely (and true!) and wordpress is easy ;)
@@ -66,9 +66,9 @@ comments:
 ---
 <p>This is the four tier git workflow. Higher levels are the most tested, lower levels are the most experimental/volatile. To update a branch at a particular tier, you pull from the branch at the tier above. The process of pushing code to a higher tier is called "promotion", and is best performed via a rebase. Code promotion should only be done to signify that a feature has been tested enough to be promoted.</p>
 
-<p>This workflow has been assembled from various useful sources, including ( but not limited to ) <a href="http://book.git-scm.com/" title="the official git book">the official git scm book</a>, <a href="http://progit.org/book/" title="progit">progit</a>, and <a href="http://gitready.com/" title="git ready">git ready</a>. Github also has some nice info, though it is hard to find, and often github specific.</p>
+<p>This workflow has been assembled from various useful sources, including ( but not limited to ) <a href="https://book.git-scm.com/" title="the official git book">the official git scm book</a>, <a href="https://progit.org/book/" title="progit">progit</a>, and <a href="https://gitready.com/" title="git ready">git ready</a>. Github also has some nice info, though it is hard to find, and often github specific.</p>
 
-<p>Note: whenever performing a rebase or switching branches you must have a clean working tree. This means any changes have been committed or stashed. This is enforced by git so that you don't overwrite any untracked changes. I prefer rebases over git merges, and always do pull --rebase, instead of a git pull. Git pull runs "git fetch &amp;&amp; git merge", whereas git pull --rebase runs "git fetch &amp;&amp; git rebase". Rebasing tends to work better in my experience, and keeps the history clean of merge commits. For more information, see <a href="http://progit.org/book/ch3-6.html" title="progit section">progit section</a> on rebasing.</p>
+<p>Note: whenever performing a rebase or switching branches you must have a clean working tree. This means any changes have been committed or stashed. This is enforced by git so that you don't overwrite any untracked changes. I prefer rebases over git merges, and always do pull --rebase, instead of a git pull. Git pull runs "git fetch &amp;&amp; git merge", whereas git pull --rebase runs "git fetch &amp;&amp; git rebase". Rebasing tends to work better in my experience, and keeps the history clean of merge commits. For more information, see <a href="https://progit.org/book/ch3-6.html" title="progit section">progit section</a> on rebasing.</p>
 
 <h1>Tier 1: master</h1>
 
@@ -78,7 +78,7 @@ comments:
 
 <h1>Tier 2: unstable</h1>
 
-<p>Push here once you are pretty sure your feature as done (and have tested it in your deployment environment). Mark it up to 80% in redmine ( or less, depending on your confidence in how done it is). This is the branch you will use for collaboration with your team. For SVN developers, this replaces the "svn upstream trunk". When you push code to upstream unstable, mark down the HEAD SHA at the time that you pushed on any relevant redmine features. Or even better, <a href="http://learn.github.com/p/tagging.html" title="tag it">tag it</a> so that it isn't just a SHA1 hash, and is more descriptive for the other developers.</p>
+<p>Push here once you are pretty sure your feature as done (and have tested it in your deployment environment). Mark it up to 80% in redmine ( or less, depending on your confidence in how done it is). This is the branch you will use for collaboration with your team. For SVN developers, this replaces the "svn upstream trunk". When you push code to upstream unstable, mark down the HEAD SHA at the time that you pushed on any relevant redmine features. Or even better, <a href="https://learn.github.com/p/tagging.html" title="tag it">tag it</a> so that it isn't just a SHA1 hash, and is more descriptive for the other developers.</p>
 
 <p>To create the unstable branch:</p>
 
@@ -146,7 +146,7 @@ comments:
 <li>git checkout -b feature_name</li>
 </ul>
 
-<p>To update a feature branch (note: this is simplified by setting up <a href="http://book.git-scm.com/4_tracking_branches.html" title="tracking branches">tracking branches</a>:</p>
+<p>To update a feature branch (note: this is simplified by setting up <a href="https://book.git-scm.com/4_tracking_branches.html" title="tracking branches">tracking branches</a>:</p>
 
 <ul>
 <li>git checkout your_name</li>

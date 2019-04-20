@@ -7,7 +7,7 @@ author: dale.hamel
 author_login: umhameld
 author_email: daleha@gmail.com
 wordpress_id: 15
-wordpress_url: http://prometheus.gotdns.com:88/wordpress/?page_id=15
+wordpress_url: https://prometheus.gotdns.com:88/wordpress/?page_id=15
 date: 2012-01-15 22:39:11.000000000 -05:00
 categories: []
 tags: []

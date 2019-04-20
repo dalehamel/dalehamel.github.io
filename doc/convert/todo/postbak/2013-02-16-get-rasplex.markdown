@@ -5,4 +5,4 @@ tags: []
 ---
 
 
- This page is deprecated, check out our new home at [rasplex.com](http://rasplex.com) The equivalent page is [here](http://rasplex.com/get-started/download-rasplex.html)
+ This page is deprecated, check out our new home at [rasplex.com](https://rasplex.com) The equivalent page is [here](https://rasplex.com/get-started/download-rasplex.html)
