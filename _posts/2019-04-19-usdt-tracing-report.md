@@ -15,7 +15,7 @@ comments:
 
 I've been preparing a report on USDT for linux.
 
-You can read it here https://blog.srvthe.net/usdt-report-doc/
+You can read it [here](https://blog.srvthe.net/usdt-report-doc/)
 
 It is also available as:
 
