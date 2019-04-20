@@ -41,6 +41,9 @@ links:
     external: true
   - title: Linux USDT tracing
     url: /usdt-report-doc/
+  - title: ruby-static-tracing api docs
+    url: /ruby-static-tracing/StaticTracing.html
+    external: true
 
 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
