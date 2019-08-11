@@ -41,6 +41,10 @@ links:
     external: true
   - title: Linux USDT tracing
     url: /usdt-report-doc/
+  - title: Ruby Production Breakpoints
+    url: /production-breakpoints-doc/
+  - title: bpftrace contributions
+    url: /bptrace-internals-doc/
   - title: ruby-static-tracing
     url: /ruby-static-tracing/
   - title: ruby-static-tracing api docs
